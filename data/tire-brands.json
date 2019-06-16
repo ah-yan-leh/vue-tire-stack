@@ -1,0 +1,64 @@
+[{
+    "category_name": "Automotive Tires",
+    "category_id": 2,
+    "prod_brand": "Continental",
+    "prod_id": 5,
+    "prod_image": "https://www.tirebuyer.com/medias/sys_master/hf1/h3e/9291815354398.png"
+  },
+  {
+    "category_name": "Automotive Tires",
+    "category_id": 2,
+    "prod_brand": "Cooper",
+    "prod_id": 6,
+    "prod_image": "https://www.tirebuyer.com/medias/sys_master/h9a/h82/9194293526558.svg"
+  },
+  {
+    "category_name": "Automotive Tires",
+    "category_id": 2,
+    "prod_brand": "Falken",
+    "prod_id": 12,
+    "prod_image": "https://www.tirebuyer.com/medias/sys_master/ha1/h04/9151798149150.png"
+  },
+  {
+    "category_name": "Automotive Tires",
+    "category_id": 2,
+    "prod_brand": "General",
+    "prod_id": 17,
+    "prod_image": "https://www.tirebuyer.com/medias/sys_master/h68/hc0/9212027666462.svg"
+  },
+  {
+    "category_name": "Automotive Tires",
+    "category_id": 2,
+    "prod_brand": "Ironman",
+    "prod_id": 21,
+    "prod_image": "https://www.tirebuyer.com/medias/sys_master/h52/he3/9166684880926.png"
+  },
+  {
+    "category_name": "Automotive Tires",
+    "category_id": 2,
+    "prod_brand": "Kumho",
+    "prod_id": 23,
+    "prod_image": "https://www.tirebuyer.com/medias/sys_master/hc5/hcd/8995055665182.png"
+  },
+  {
+    "category_name": "Automotive Tires",
+    "category_id": 2,
+    "prod_brand": "Nexen",
+    "prod_id": 28,
+    "prod_image": "https://www.tirebuyer.com/medias/sys_master/h80/hb3/9371824259102.svg"
+  },
+  {
+    "category_name": "Automotive Tires",
+    "category_id": 2,
+    "prod_brand": "Nitto",
+    "prod_id": 29,
+    "prod_image": "https://www.tirebuyer.com/medias/sys_master/8800031211550.png"
+  },
+  {
+    "category_name": "Automotive Tires",
+    "category_id": 2,
+    "prod_brand": "Toyo",
+    "prod_id": 36,
+    "prod_image": "https://www.tirebuyer.com/medias/sys_master/h1b/h63/9279485181982.svg"
+  }
+]

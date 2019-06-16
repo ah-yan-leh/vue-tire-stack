@@ -1,0 +1,36 @@
+[{
+    "category_name": "Automotive Rims & Wheels",
+    "category_id": 1,
+    "category_image": "http://www.tirebuyer.com/medias/sys_master/hcd/h40/9225737732126.jpg"
+  },
+  {
+    "category_name": "Automotive Tires",
+    "category_id": 2,
+    "category_image": "https://images.tirebuyer.com/visual-aids/products/tires/michelin/premierltx/michelin_premierltx_bw_128843_vary_jpg_s3_resize_178x178.jpg"
+  },
+  {
+    "category_name": "Lawn Mower Tires",
+    "category_id": 3,
+    "category_image": "http://www.tirebuyer.com/medias/sys_master/hb4/h34/8960253165598.jpg"
+  },
+  {
+    "category_name": "Off-Road and All-Terrain Vehicle Tires",
+    "category_id": 4,
+    "category_image": "https://images.tirebuyer.com/visual-aids/products/tires/falken/wildpeakat3w/falken_wildpeakat3w_rbl_341933_vary_jpg_s3_resize_178x178.jpg"
+  },
+  {
+    "category_name": "Kurgo Accessories",
+    "category_id": 5,
+    "category_image": "http://www.tirebuyer.com/medias/sys_master/hb5/h55/9322613768222.jpg"
+  },
+  {
+    "category_name": "Peerless Snow Chains",
+    "category_id": 6,
+    "category_image": "http://www.tirebuyer.com/medias/sys_master/he1/he8/9041789779998.jpg"
+  },
+  {
+    "category_name": "Wheelbarrow Tires",
+    "category_id": 7,
+    "category_image": "http://www.tirebuyer.com/medias/sys_master/h3d/h6e/8960255721502.jpg"
+  }
+]

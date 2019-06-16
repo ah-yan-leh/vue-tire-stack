@@ -1,0 +1,83 @@
+[{
+
+        "shop_id": 1,
+        "shop_name": "Fast Eddies Tire Pros & Automotive Repair",
+        "shop_address": "8810 EVERGREEN WAY",
+        "shop_location": "EVERETT, WA 98208",
+        "shop_phone": "425-355-7110",
+        "shop_lat": 47.918152,
+        "shop_long": -122.23211
+    },
+    {
+        "shop_id": 2,
+        "shop_name": "Ace Auto Repair & Tire Pros",
+        "shop_address": "8035 15TH AVE NE",
+        "shop_location": "SEATTLE, WA 98115",
+        "shop_phone": "206-524-6005",
+        "shop_lat": 47.687794,
+        "shop_long": -122.312526
+    },
+    {
+        "shop_id": 3,
+        "shop_name": "Kirkland Tire Pros",
+        "shop_address": "602 6TH ST",
+        "shop_location": "KIRKLAND, WA 98033",
+        "shop_phone": "425-822-8251",
+        "shop_lat": 47.680087,
+        "shop_long": -122.196774
+    },
+    {
+        "shop_id": 4,
+        "shop_name": "Redmond Tire Pros",
+        "shop_address": "17657 REDMOND WAY",
+        "shop_location": "REDMOND, WA 98052",
+        "shop_phone": "(425) 885-4848",
+        "shop_lat": 47.668152,
+        "shop_long": -122.103852
+    },
+    {
+        "shop_id": 5,
+        "shop_name": "WARREN SECORD TIRE PROS",
+        "shop_address": "310 WASHINGTON AVE N",
+        "shop_location": "KENT, WA 98032",
+        "shop_phone": "253-852-1492",
+        "shop_lat": 47.38331,
+        "shop_long": -122.246817
+    },
+    {
+        "shop_id": 6,
+        "shop_name": "Regal Auto Care Tire Pros",
+        "shop_address": "1901 AUBURN WAY N",
+        "shop_location": "AUBURN, WA 98002",
+        "shop_phone": "(253) 735-3363",
+        "shop_lat": 47.324865,
+        "shop_long": -122.22188
+    },
+    {
+        "shop_id": 7,
+        "shop_name": "RJ's Tire Pros & Auto Experts",
+        "shop_address": "2601 W NOB HILL BLVD",
+        "shop_location": "YAKIMA, WA 98902",
+        "shop_phone": "509-453-8170",
+        "shop_lat": 46.585712,
+        "shop_long": -120.543901
+    },
+    {
+        "shop_id": 8,
+        "shop_name": "Hazel Dell Tire Pros",
+        "shop_address": "6511 NE HIGHWAY 99",
+        "shop_location": "VANCOUVER, WA 98665",
+        "shop_phone": "(360) 695-1347",
+        "shop_lat": 45.669845,
+        "shop_long": -122.663178
+    },
+    {
+        "shop_id": 9,
+        "shop_name": "Garys Auto Care & Tire Pros",
+        "shop_address": "233 NE COLUMBIA BLVD",
+        "shop_location": "PORTLAND, OR 97211",
+        "shop_phone": "503-286-9851",
+        "shop_lat": 45.581776,
+        "shop_long": -122.662562
+    }
+]

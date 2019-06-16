@@ -1,0 +1,4805 @@
+[{
+        "tireSizeID": 11,
+        "size": "155/60R15"
+    },
+    {
+        "tireSizeID": 12,
+        "size": "155/70R13"
+    },
+    {
+        "tireSizeID": 13,
+        "size": "155/80R13"
+    },
+    {
+        "tireSizeID": 14,
+        "size": "16.5X6.50-8 / 6 Ply"
+    },
+    {
+        "tireSizeID": 15,
+        "size": "16.5X6.50-8 / 8 Ply"
+    },
+    {
+        "tireSizeID": 16,
+        "size": "16.5X6.5-8 / 6 Ply"
+    },
+    {
+        "tireSizeID": 17,
+        "size": "175/55R15"
+    },
+    {
+        "tireSizeID": 18,
+        "size": "175/60R16"
+    },
+    {
+        "tireSizeID": 19,
+        "size": "175/65R14"
+    },
+    {
+        "tireSizeID": 20,
+        "size": "175/65R14XL"
+    },
+    {
+        "tireSizeID": 21,
+        "size": "175/65R15"
+    },
+    {
+        "tireSizeID": 22,
+        "size": "175/70R13"
+    },
+    {
+        "tireSizeID": 23,
+        "size": "175/70R14"
+    },
+    {
+        "tireSizeID": 24,
+        "size": "18.5X8.50-8 / 6 Ply"
+    },
+    {
+        "tireSizeID": 25,
+        "size": "18.5X8.5-8 / 4 Ply"
+    },
+    {
+        "tireSizeID": 26,
+        "size": "185/55R15"
+    },
+    {
+        "tireSizeID": 27,
+        "size": "185/55R16"
+    },
+    {
+        "tireSizeID": 28,
+        "size": "185/55R16XL"
+    },
+    {
+        "tireSizeID": 29,
+        "size": "185/60R14"
+    },
+    {
+        "tireSizeID": 30,
+        "size": "185/60R15"
+    },
+    {
+        "tireSizeID": 31,
+        "size": "185/60R15C"
+    },
+    {
+        "tireSizeID": 32,
+        "size": "185/60R15C / 6 Ply"
+    },
+    {
+        "tireSizeID": 33,
+        "size": "185/65R14"
+    },
+    {
+        "tireSizeID": 34,
+        "size": "185/65R14XL"
+    },
+    {
+        "tireSizeID": 35,
+        "size": "185/65R15"
+    },
+    {
+        "tireSizeID": 36,
+        "size": "185/65R15XL"
+    },
+    {
+        "tireSizeID": 37,
+        "size": "185/70R13"
+    },
+    {
+        "tireSizeID": 38,
+        "size": "185/70R14"
+    },
+    {
+        "tireSizeID": 39,
+        "size": "185/75R14"
+    },
+    {
+        "tireSizeID": 40,
+        "size": "185R14C / 8 Ply"
+    },
+    {
+        "tireSizeID": 41,
+        "size": "18X8.50-8 / 4 Ply"
+    },
+    {
+        "tireSizeID": 42,
+        "size": "195/45R15"
+    },
+    {
+        "tireSizeID": 43,
+        "size": "195/45R16XL"
+    },
+    {
+        "tireSizeID": 44,
+        "size": "195/45ZR15"
+    },
+    {
+        "tireSizeID": 45,
+        "size": "195/45ZR16"
+    },
+    {
+        "tireSizeID": 46,
+        "size": "195/50R15"
+    },
+    {
+        "tireSizeID": 47,
+        "size": "195/50R15XL"
+    },
+    {
+        "tireSizeID": 48,
+        "size": "195/50R16"
+    },
+    {
+        "tireSizeID": 49,
+        "size": "195/50ZR16"
+    },
+    {
+        "tireSizeID": 50,
+        "size": "195/55R15"
+    },
+    {
+        "tireSizeID": 51,
+        "size": "195/55R15XL"
+    },
+    {
+        "tireSizeID": 52,
+        "size": "195/55R16"
+    },
+    {
+        "tireSizeID": 53,
+        "size": "195/55R16XL"
+    },
+    {
+        "tireSizeID": 54,
+        "size": "195/55RF16"
+    },
+    {
+        "tireSizeID": 55,
+        "size": "195/60R14"
+    },
+    {
+        "tireSizeID": 56,
+        "size": "195/60R15"
+    },
+    {
+        "tireSizeID": 57,
+        "size": "195/60R15XL"
+    },
+    {
+        "tireSizeID": 58,
+        "size": "195/60R16"
+    },
+    {
+        "tireSizeID": 59,
+        "size": "195/65R14"
+    },
+    {
+        "tireSizeID": 60,
+        "size": "195/65R15"
+    },
+    {
+        "tireSizeID": 61,
+        "size": "195/65R15XL"
+    },
+    {
+        "tireSizeID": 62,
+        "size": "195/65RF15"
+    },
+    {
+        "tireSizeID": 63,
+        "size": "195/70R14"
+    },
+    {
+        "tireSizeID": 64,
+        "size": "195/70R15C / 8 Ply"
+    },
+    {
+        "tireSizeID": 65,
+        "size": "195/75R14"
+    },
+    {
+        "tireSizeID": 66,
+        "size": "195/75R16C / 8 Ply"
+    },
+    {
+        "tireSizeID": 67,
+        "size": "20.5X8.00-10 / 10 Ply"
+    },
+    {
+        "tireSizeID": 68,
+        "size": "20.5X8.00-10 / 12 Ply"
+    },
+    {
+        "tireSizeID": 69,
+        "size": "20.5X8.00-10 / 4 Ply"
+    },
+    {
+        "tireSizeID": 70,
+        "size": "20.5X8.00-10 / 6 Ply"
+    },
+    {
+        "tireSizeID": 71,
+        "size": "20.5X8.00-10 / 8 Ply"
+    },
+    {
+        "tireSizeID": 72,
+        "size": "20.5X8.0-10 / 6 Ply"
+    },
+    {
+        "tireSizeID": 73,
+        "size": "205/40R16XL"
+    },
+    {
+        "tireSizeID": 74,
+        "size": "205/40R17"
+    },
+    {
+        "tireSizeID": 75,
+        "size": "205/40R17XL"
+    },
+    {
+        "tireSizeID": 76,
+        "size": "205/40R18"
+    },
+    {
+        "tireSizeID": 77,
+        "size": "205/40ZR16XL"
+    },
+    {
+        "tireSizeID": 78,
+        "size": "205/40ZR17"
+    },
+    {
+        "tireSizeID": 79,
+        "size": "205/40ZR17XL"
+    },
+    {
+        "tireSizeID": 80,
+        "size": "205/40ZR18XL"
+    },
+    {
+        "tireSizeID": 81,
+        "size": "205/45R16"
+    },
+    {
+        "tireSizeID": 82,
+        "size": "205/45R16/XL"
+    },
+    {
+        "tireSizeID": 83,
+        "size": "205/45R16XL"
+    },
+    {
+        "tireSizeID": 84,
+        "size": "205/45R17"
+    },
+    {
+        "tireSizeID": 85,
+        "size": "205/45R17XL"
+    },
+    {
+        "tireSizeID": 86,
+        "size": "205/45RF17"
+    },
+    {
+        "tireSizeID": 87,
+        "size": "205/45RF17XL"
+    },
+    {
+        "tireSizeID": 88,
+        "size": "205/45ZR16"
+    },
+    {
+        "tireSizeID": 89,
+        "size": "205/45ZR16/XL"
+    },
+    {
+        "tireSizeID": 90,
+        "size": "205/45ZR16XL"
+    },
+    {
+        "tireSizeID": 91,
+        "size": "205/45ZR17"
+    },
+    {
+        "tireSizeID": 92,
+        "size": "205/45ZR17XL"
+    },
+    {
+        "tireSizeID": 93,
+        "size": "205/50R15"
+    },
+    {
+        "tireSizeID": 94,
+        "size": "205/50R15XL"
+    },
+    {
+        "tireSizeID": 95,
+        "size": "205/50R16"
+    },
+    {
+        "tireSizeID": 96,
+        "size": "205/50R16XL"
+    },
+    {
+        "tireSizeID": 97,
+        "size": "205/50R17"
+    },
+    {
+        "tireSizeID": 98,
+        "size": "205/50R17/XL"
+    },
+    {
+        "tireSizeID": 99,
+        "size": "205/50R17XL"
+    },
+    {
+        "tireSizeID": 100,
+        "size": "205/50RF17XL"
+    },
+    {
+        "tireSizeID": 101,
+        "size": "205/50VR17"
+    },
+    {
+        "tireSizeID": 102,
+        "size": "205/50ZR15"
+    },
+    {
+        "tireSizeID": 103,
+        "size": "205/50ZR15XL"
+    },
+    {
+        "tireSizeID": 104,
+        "size": "205/50ZR16"
+    },
+    {
+        "tireSizeID": 105,
+        "size": "205/50ZR16XL"
+    },
+    {
+        "tireSizeID": 106,
+        "size": "205/50ZR17"
+    },
+    {
+        "tireSizeID": 107,
+        "size": "205/50ZR17XL"
+    },
+    {
+        "tireSizeID": 108,
+        "size": "205/55R15"
+    },
+    {
+        "tireSizeID": 109,
+        "size": "205/55R16"
+    },
+    {
+        "tireSizeID": 110,
+        "size": "205/55R16XL"
+    },
+    {
+        "tireSizeID": 111,
+        "size": "205/55R17"
+    },
+    {
+        "tireSizeID": 112,
+        "size": "205/55RF16"
+    },
+    {
+        "tireSizeID": 113,
+        "size": "205/55ZR16"
+    },
+    {
+        "tireSizeID": 114,
+        "size": "205/55ZR16XL"
+    },
+    {
+        "tireSizeID": 115,
+        "size": "205/60R15"
+    },
+    {
+        "tireSizeID": 116,
+        "size": "205/60R15XL"
+    },
+    {
+        "tireSizeID": 117,
+        "size": "205/60R16"
+    },
+    {
+        "tireSizeID": 118,
+        "size": "205/60R16XL"
+    },
+    {
+        "tireSizeID": 119,
+        "size": "205/60RF16"
+    },
+    {
+        "tireSizeID": 120,
+        "size": "205/65R15"
+    },
+    {
+        "tireSizeID": 121,
+        "size": "205/65R15 / 6 Ply"
+    },
+    {
+        "tireSizeID": 122,
+        "size": "205/65R15C / 6 Ply"
+    },
+    {
+        "tireSizeID": 123,
+        "size": "205/65R15XL"
+    },
+    {
+        "tireSizeID": 124,
+        "size": "205/65R16"
+    },
+    {
+        "tireSizeID": 125,
+        "size": "205/65R16XL"
+    },
+    {
+        "tireSizeID": 126,
+        "size": "205/65RF16"
+    },
+    {
+        "tireSizeID": 127,
+        "size": "205/70R14"
+    },
+    {
+        "tireSizeID": 128,
+        "size": "205/70R15"
+    },
+    {
+        "tireSizeID": 129,
+        "size": "205/70R16"
+    },
+    {
+        "tireSizeID": 130,
+        "size": "205/75R14"
+    },
+    {
+        "tireSizeID": 131,
+        "size": "205/75R15"
+    },
+    {
+        "tireSizeID": 132,
+        "size": "215/35R18XL"
+    },
+    {
+        "tireSizeID": 133,
+        "size": "215/35ZR18"
+    },
+    {
+        "tireSizeID": 134,
+        "size": "215/40R18"
+    },
+    {
+        "tireSizeID": 135,
+        "size": "215/40R18XL"
+    },
+    {
+        "tireSizeID": 136,
+        "size": "215/40ZR17"
+    },
+    {
+        "tireSizeID": 137,
+        "size": "215/40ZR17XL"
+    },
+    {
+        "tireSizeID": 138,
+        "size": "215/40ZR18"
+    },
+    {
+        "tireSizeID": 139,
+        "size": "215/40ZR18XL"
+    },
+    {
+        "tireSizeID": 140,
+        "size": "215/45R17"
+    },
+    {
+        "tireSizeID": 141,
+        "size": "215/45R17/XL"
+    },
+    {
+        "tireSizeID": 142,
+        "size": "215/45R17XL"
+    },
+    {
+        "tireSizeID": 143,
+        "size": "215/45R18"
+    },
+    {
+        "tireSizeID": 144,
+        "size": "215/45R18XL"
+    },
+    {
+        "tireSizeID": 145,
+        "size": "215/45R20"
+    },
+    {
+        "tireSizeID": 146,
+        "size": "215/45RF17XL"
+    },
+    {
+        "tireSizeID": 147,
+        "size": "215/45RF18XL"
+    },
+    {
+        "tireSizeID": 148,
+        "size": "215/45ZR17"
+    },
+    {
+        "tireSizeID": 149,
+        "size": "215/45ZR17XL"
+    },
+    {
+        "tireSizeID": 150,
+        "size": "215/45ZR18XL"
+    },
+    {
+        "tireSizeID": 151,
+        "size": "215/50R16"
+    },
+    {
+        "tireSizeID": 152,
+        "size": "215/50R17"
+    },
+    {
+        "tireSizeID": 153,
+        "size": "215/50R17XL"
+    },
+    {
+        "tireSizeID": 154,
+        "size": "215/50RF17XL"
+    },
+    {
+        "tireSizeID": 155,
+        "size": "215/50ZR17"
+    },
+    {
+        "tireSizeID": 156,
+        "size": "215/50ZR17XL"
+    },
+    {
+        "tireSizeID": 157,
+        "size": "215/55R16"
+    },
+    {
+        "tireSizeID": 158,
+        "size": "215/55R16XL"
+    },
+    {
+        "tireSizeID": 159,
+        "size": "215/55R17"
+    },
+    {
+        "tireSizeID": 160,
+        "size": "215/55R17XL"
+    },
+    {
+        "tireSizeID": 161,
+        "size": "215/55R18"
+    },
+    {
+        "tireSizeID": 162,
+        "size": "215/55R18XL"
+    },
+    {
+        "tireSizeID": 163,
+        "size": "215/55RF16"
+    },
+    {
+        "tireSizeID": 164,
+        "size": "215/55RF17"
+    },
+    {
+        "tireSizeID": 165,
+        "size": "215/55RF18"
+    },
+    {
+        "tireSizeID": 166,
+        "size": "215/55ZR16"
+    },
+    {
+        "tireSizeID": 167,
+        "size": "215/55ZR16XL"
+    },
+    {
+        "tireSizeID": 168,
+        "size": "215/55ZR17"
+    },
+    {
+        "tireSizeID": 169,
+        "size": "215/55ZR17XL"
+    },
+    {
+        "tireSizeID": 170,
+        "size": "215/60R15"
+    },
+    {
+        "tireSizeID": 171,
+        "size": "215/60R16"
+    },
+    {
+        "tireSizeID": 172,
+        "size": "215/60R16XL"
+    },
+    {
+        "tireSizeID": 173,
+        "size": "215/60R17"
+    },
+    {
+        "tireSizeID": 174,
+        "size": "215/60R17XL"
+    },
+    {
+        "tireSizeID": 175,
+        "size": "215/60RF16"
+    },
+    {
+        "tireSizeID": 176,
+        "size": "215/65R15"
+    },
+    {
+        "tireSizeID": 177,
+        "size": "215/65R16"
+    },
+    {
+        "tireSizeID": 178,
+        "size": "215/65R16XL"
+    },
+    {
+        "tireSizeID": 179,
+        "size": "215/65R17"
+    },
+    {
+        "tireSizeID": 180,
+        "size": "215/70R14"
+    },
+    {
+        "tireSizeID": 181,
+        "size": "215/70R15"
+    },
+    {
+        "tireSizeID": 182,
+        "size": "215/70R16"
+    },
+    {
+        "tireSizeID": 183,
+        "size": "215/70R16XL"
+    },
+    {
+        "tireSizeID": 184,
+        "size": "215/75D14 / 6 Ply"
+    },
+    {
+        "tireSizeID": 185,
+        "size": "215/75R15"
+    },
+    {
+        "tireSizeID": 186,
+        "size": "225/30R20XL"
+    },
+    {
+        "tireSizeID": 187,
+        "size": "225/30ZR20XL"
+    },
+    {
+        "tireSizeID": 188,
+        "size": "225/35R19XL"
+    },
+    {
+        "tireSizeID": 189,
+        "size": "225/35R20XL"
+    },
+    {
+        "tireSizeID": 190,
+        "size": "225/35ZR19"
+    },
+    {
+        "tireSizeID": 191,
+        "size": "225/35ZR19XL"
+    },
+    {
+        "tireSizeID": 192,
+        "size": "225/35ZR20XL"
+    },
+    {
+        "tireSizeID": 193,
+        "size": "225/40R18"
+    },
+    {
+        "tireSizeID": 194,
+        "size": "225/40R18XL"
+    },
+    {
+        "tireSizeID": 195,
+        "size": "225/40R19"
+    },
+    {
+        "tireSizeID": 196,
+        "size": "225/40R19XL"
+    },
+    {
+        "tireSizeID": 197,
+        "size": "225/40RF18"
+    },
+    {
+        "tireSizeID": 198,
+        "size": "225/40RF18XL"
+    },
+    {
+        "tireSizeID": 199,
+        "size": "225/40ZR18"
+    },
+    {
+        "tireSizeID": 200,
+        "size": "225/40ZR18XL"
+    },
+    {
+        "tireSizeID": 201,
+        "size": "225/40ZR19XL"
+    },
+    {
+        "tireSizeID": 202,
+        "size": "225/45R17"
+    },
+    {
+        "tireSizeID": 203,
+        "size": "225/45R17/XL"
+    },
+    {
+        "tireSizeID": 204,
+        "size": "225/45R17XL"
+    },
+    {
+        "tireSizeID": 205,
+        "size": "225/45R18"
+    },
+    {
+        "tireSizeID": 206,
+        "size": "225/45R18XL"
+    },
+    {
+        "tireSizeID": 207,
+        "size": "225/45R19"
+    },
+    {
+        "tireSizeID": 208,
+        "size": "225/45R19XL"
+    },
+    {
+        "tireSizeID": 209,
+        "size": "225/45RF17"
+    },
+    {
+        "tireSizeID": 210,
+        "size": "225/45RF18XL"
+    },
+    {
+        "tireSizeID": 211,
+        "size": "225/45ZR15"
+    },
+    {
+        "tireSizeID": 212,
+        "size": "225/45ZR17"
+    },
+    {
+        "tireSizeID": 213,
+        "size": "225/45ZR17XL"
+    },
+    {
+        "tireSizeID": 214,
+        "size": "225/45ZR18"
+    },
+    {
+        "tireSizeID": 215,
+        "size": "225/45ZR18XL"
+    },
+    {
+        "tireSizeID": 216,
+        "size": "225/45ZR19"
+    },
+    {
+        "tireSizeID": 217,
+        "size": "225/45ZR19XL"
+    },
+    {
+        "tireSizeID": 218,
+        "size": "225/50R16"
+    },
+    {
+        "tireSizeID": 219,
+        "size": "225/50R16XL"
+    },
+    {
+        "tireSizeID": 220,
+        "size": "225/50R17"
+    },
+    {
+        "tireSizeID": 221,
+        "size": "225/50R17/XL"
+    },
+    {
+        "tireSizeID": 222,
+        "size": "225/50R17XL"
+    },
+    {
+        "tireSizeID": 223,
+        "size": "225/50R18"
+    },
+    {
+        "tireSizeID": 224,
+        "size": "225/50R18XL"
+    },
+    {
+        "tireSizeID": 225,
+        "size": "225/50RF17"
+    },
+    {
+        "tireSizeID": 226,
+        "size": "225/50RF18"
+    },
+    {
+        "tireSizeID": 227,
+        "size": "225/50ZR16"
+    },
+    {
+        "tireSizeID": 228,
+        "size": "225/50ZR17"
+    },
+    {
+        "tireSizeID": 229,
+        "size": "225/50ZR17XL"
+    },
+    {
+        "tireSizeID": 230,
+        "size": "225/50ZR18"
+    },
+    {
+        "tireSizeID": 231,
+        "size": "225/50ZR18XL"
+    },
+    {
+        "tireSizeID": 232,
+        "size": "225/55R16"
+    },
+    {
+        "tireSizeID": 233,
+        "size": "225/55R16XL"
+    },
+    {
+        "tireSizeID": 234,
+        "size": "225/55R17"
+    },
+    {
+        "tireSizeID": 235,
+        "size": "225/55R17XL"
+    },
+    {
+        "tireSizeID": 236,
+        "size": "225/55R18"
+    },
+    {
+        "tireSizeID": 237,
+        "size": "225/55R18XL"
+    },
+    {
+        "tireSizeID": 238,
+        "size": "225/55R19"
+    },
+    {
+        "tireSizeID": 239,
+        "size": "225/55R19XL"
+    },
+    {
+        "tireSizeID": 240,
+        "size": "225/55RF17"
+    },
+    {
+        "tireSizeID": 241,
+        "size": "225/55ZR16"
+    },
+    {
+        "tireSizeID": 242,
+        "size": "225/55ZR16XL"
+    },
+    {
+        "tireSizeID": 243,
+        "size": "225/55ZR17"
+    },
+    {
+        "tireSizeID": 244,
+        "size": "225/55ZR17XL"
+    },
+    {
+        "tireSizeID": 245,
+        "size": "225/60R15"
+    },
+    {
+        "tireSizeID": 246,
+        "size": "225/60R16"
+    },
+    {
+        "tireSizeID": 247,
+        "size": "225/60R16XL"
+    },
+    {
+        "tireSizeID": 248,
+        "size": "225/60R17"
+    },
+    {
+        "tireSizeID": 249,
+        "size": "225/60R17XL"
+    },
+    {
+        "tireSizeID": 250,
+        "size": "225/60R18"
+    },
+    {
+        "tireSizeID": 251,
+        "size": "225/60R18XL"
+    },
+    {
+        "tireSizeID": 252,
+        "size": "225/60RF16"
+    },
+    {
+        "tireSizeID": 253,
+        "size": "225/60RF17"
+    },
+    {
+        "tireSizeID": 254,
+        "size": "225/65R16"
+    },
+    {
+        "tireSizeID": 255,
+        "size": "225/65R16XL"
+    },
+    {
+        "tireSizeID": 256,
+        "size": "225/65R17"
+    },
+    {
+        "tireSizeID": 257,
+        "size": "225/65R17XL"
+    },
+    {
+        "tireSizeID": 258,
+        "size": "225/65RF16"
+    },
+    {
+        "tireSizeID": 259,
+        "size": "225/65RF17"
+    },
+    {
+        "tireSizeID": 260,
+        "size": "225/70R14"
+    },
+    {
+        "tireSizeID": 261,
+        "size": "225/70R15"
+    },
+    {
+        "tireSizeID": 262,
+        "size": "225/70R16"
+    },
+    {
+        "tireSizeID": 263,
+        "size": "225/75R15"
+    },
+    {
+        "tireSizeID": 264,
+        "size": "225/75R16"
+    },
+    {
+        "tireSizeID": 265,
+        "size": "225/75R16C / 10 Ply"
+    },
+    {
+        "tireSizeID": 266,
+        "size": "225/75R16XL"
+    },
+    {
+        "tireSizeID": 267,
+        "size": "235/30ZR20XL"
+    },
+    {
+        "tireSizeID": 268,
+        "size": "235/30ZR22XL"
+    },
+    {
+        "tireSizeID": 269,
+        "size": "235/35R19XL"
+    },
+    {
+        "tireSizeID": 270,
+        "size": "235/35ZR19"
+    },
+    {
+        "tireSizeID": 271,
+        "size": "235/35ZR19XL"
+    },
+    {
+        "tireSizeID": 272,
+        "size": "235/35ZR20XL"
+    },
+    {
+        "tireSizeID": 273,
+        "size": "235/40R18"
+    },
+    {
+        "tireSizeID": 274,
+        "size": "235/40R18/XL"
+    },
+    {
+        "tireSizeID": 275,
+        "size": "235/40R18XL"
+    },
+    {
+        "tireSizeID": 276,
+        "size": "235/40R19"
+    },
+    {
+        "tireSizeID": 277,
+        "size": "235/40R19XL"
+    },
+    {
+        "tireSizeID": 278,
+        "size": "235/40RF18XL"
+    },
+    {
+        "tireSizeID": 279,
+        "size": "235/40ZR17"
+    },
+    {
+        "tireSizeID": 280,
+        "size": "235/40ZR18"
+    },
+    {
+        "tireSizeID": 281,
+        "size": "235/40ZR18 XL"
+    },
+    {
+        "tireSizeID": 282,
+        "size": "235/40ZR18/XL"
+    },
+    {
+        "tireSizeID": 283,
+        "size": "235/40ZR18XL"
+    },
+    {
+        "tireSizeID": 284,
+        "size": "235/40ZR19"
+    },
+    {
+        "tireSizeID": 285,
+        "size": "235/40ZR19XL"
+    },
+    {
+        "tireSizeID": 286,
+        "size": "235/45R17"
+    },
+    {
+        "tireSizeID": 287,
+        "size": "235/45R17XL"
+    },
+    {
+        "tireSizeID": 288,
+        "size": "235/45R18"
+    },
+    {
+        "tireSizeID": 289,
+        "size": "235/45R18XL"
+    },
+    {
+        "tireSizeID": 290,
+        "size": "235/45R19"
+    },
+    {
+        "tireSizeID": 291,
+        "size": "235/45R20XL"
+    },
+    {
+        "tireSizeID": 292,
+        "size": "235/45RF17"
+    },
+    {
+        "tireSizeID": 293,
+        "size": "235/45RF18XL"
+    },
+    {
+        "tireSizeID": 294,
+        "size": "235/45ZR17"
+    },
+    {
+        "tireSizeID": 295,
+        "size": "235/45ZR17/XL"
+    },
+    {
+        "tireSizeID": 296,
+        "size": "235/45ZR17XL"
+    },
+    {
+        "tireSizeID": 297,
+        "size": "235/45ZR18"
+    },
+    {
+        "tireSizeID": 298,
+        "size": "235/45ZR18XL"
+    },
+    {
+        "tireSizeID": 299,
+        "size": "235/45ZR20XL"
+    },
+    {
+        "tireSizeID": 300,
+        "size": "235/50R17"
+    },
+    {
+        "tireSizeID": 301,
+        "size": "235/50R18"
+    },
+    {
+        "tireSizeID": 302,
+        "size": "235/50R18XL"
+    },
+    {
+        "tireSizeID": 303,
+        "size": "235/50R19"
+    },
+    {
+        "tireSizeID": 304,
+        "size": "235/50R19XL"
+    },
+    {
+        "tireSizeID": 305,
+        "size": "235/50RF17"
+    },
+    {
+        "tireSizeID": 306,
+        "size": "235/50RF18"
+    },
+    {
+        "tireSizeID": 307,
+        "size": "235/50ZR17"
+    },
+    {
+        "tireSizeID": 308,
+        "size": "235/50ZR17XL"
+    },
+    {
+        "tireSizeID": 309,
+        "size": "235/50ZR18"
+    },
+    {
+        "tireSizeID": 310,
+        "size": "235/50ZR18XL"
+    },
+    {
+        "tireSizeID": 311,
+        "size": "235/55R16"
+    },
+    {
+        "tireSizeID": 312,
+        "size": "235/55R17"
+    },
+    {
+        "tireSizeID": 313,
+        "size": "235/55R17/S1"
+    },
+    {
+        "tireSizeID": 314,
+        "size": "235/55R17SL"
+    },
+    {
+        "tireSizeID": 315,
+        "size": "235/55R17XL"
+    },
+    {
+        "tireSizeID": 316,
+        "size": "235/55R18"
+    },
+    {
+        "tireSizeID": 317,
+        "size": "235/55R18XL"
+    },
+    {
+        "tireSizeID": 318,
+        "size": "235/55R19"
+    },
+    {
+        "tireSizeID": 319,
+        "size": "235/55R19XL"
+    },
+    {
+        "tireSizeID": 320,
+        "size": "235/55R20"
+    },
+    {
+        "tireSizeID": 321,
+        "size": "235/55R20XL"
+    },
+    {
+        "tireSizeID": 322,
+        "size": "235/55RF18"
+    },
+    {
+        "tireSizeID": 323,
+        "size": "235/55ZR17"
+    },
+    {
+        "tireSizeID": 324,
+        "size": "235/55ZR17XL"
+    },
+    {
+        "tireSizeID": 325,
+        "size": "235/55ZR18"
+    },
+    {
+        "tireSizeID": 326,
+        "size": "235/55ZR18XL"
+    },
+    {
+        "tireSizeID": 327,
+        "size": "235/55ZR19XL"
+    },
+    {
+        "tireSizeID": 328,
+        "size": "235/60R16"
+    },
+    {
+        "tireSizeID": 329,
+        "size": "235/60R16XL"
+    },
+    {
+        "tireSizeID": 330,
+        "size": "235/60R17"
+    },
+    {
+        "tireSizeID": 331,
+        "size": "235/60R17XL"
+    },
+    {
+        "tireSizeID": 332,
+        "size": "235/60R18"
+    },
+    {
+        "tireSizeID": 333,
+        "size": "235/60R18 XL"
+    },
+    {
+        "tireSizeID": 334,
+        "size": "235/60R18XL"
+    },
+    {
+        "tireSizeID": 335,
+        "size": "235/60RF17"
+    },
+    {
+        "tireSizeID": 336,
+        "size": "235/65R16"
+    },
+    {
+        "tireSizeID": 337,
+        "size": "235/65R16C / 10 Ply"
+    },
+    {
+        "tireSizeID": 338,
+        "size": "235/65R17"
+    },
+    {
+        "tireSizeID": 339,
+        "size": "235/65R17 XL"
+    },
+    {
+        "tireSizeID": 340,
+        "size": "235/65R17XL"
+    },
+    {
+        "tireSizeID": 341,
+        "size": "235/65R18"
+    },
+    {
+        "tireSizeID": 342,
+        "size": "235/65R18XL"
+    },
+    {
+        "tireSizeID": 343,
+        "size": "235/65RF16"
+    },
+    {
+        "tireSizeID": 344,
+        "size": "235/65RF17"
+    },
+    {
+        "tireSizeID": 345,
+        "size": "235/70R15"
+    },
+    {
+        "tireSizeID": 346,
+        "size": "235/70R16"
+    },
+    {
+        "tireSizeID": 347,
+        "size": "235/70R16XL"
+    },
+    {
+        "tireSizeID": 348,
+        "size": "235/70R17"
+    },
+    {
+        "tireSizeID": 349,
+        "size": "235/70R17/XL"
+    },
+    {
+        "tireSizeID": 350,
+        "size": "235/70R17XL"
+    },
+    {
+        "tireSizeID": 351,
+        "size": "235/75R15"
+    },
+    {
+        "tireSizeID": 352,
+        "size": "235/75R15RE"
+    },
+    {
+        "tireSizeID": 353,
+        "size": "235/75R15XL"
+    },
+    {
+        "tireSizeID": 354,
+        "size": "235/75R16"
+    },
+    {
+        "tireSizeID": 355,
+        "size": "235/75R16XL"
+    },
+    {
+        "tireSizeID": 356,
+        "size": "235/75R17"
+    },
+    {
+        "tireSizeID": 357,
+        "size": "235/80R17 / 10 Ply"
+    },
+    {
+        "tireSizeID": 358,
+        "size": "245/30ZR20XL"
+    },
+    {
+        "tireSizeID": 359,
+        "size": "245/30ZR22XL"
+    },
+    {
+        "tireSizeID": 360,
+        "size": "245/35R18"
+    },
+    {
+        "tireSizeID": 361,
+        "size": "245/35R18XL"
+    },
+    {
+        "tireSizeID": 362,
+        "size": "245/35R19"
+    },
+    {
+        "tireSizeID": 363,
+        "size": "245/35R19XL"
+    },
+    {
+        "tireSizeID": 364,
+        "size": "245/35R20XL"
+    },
+    {
+        "tireSizeID": 365,
+        "size": "245/35R21XL"
+    },
+    {
+        "tireSizeID": 366,
+        "size": "245/35ZR18"
+    },
+    {
+        "tireSizeID": 367,
+        "size": "245/35ZR18XL"
+    },
+    {
+        "tireSizeID": 368,
+        "size": "245/35ZR19XL"
+    },
+    {
+        "tireSizeID": 369,
+        "size": "245/35ZR20"
+    },
+    {
+        "tireSizeID": 370,
+        "size": "245/35ZR20/XL"
+    },
+    {
+        "tireSizeID": 371,
+        "size": "245/35ZR20XL"
+    },
+    {
+        "tireSizeID": 372,
+        "size": "245/35ZR21XL"
+    },
+    {
+        "tireSizeID": 373,
+        "size": "245/40R17"
+    },
+    {
+        "tireSizeID": 374,
+        "size": "245/40R17/XL"
+    },
+    {
+        "tireSizeID": 375,
+        "size": "245/40R17XL"
+    },
+    {
+        "tireSizeID": 376,
+        "size": "245/40R18"
+    },
+    {
+        "tireSizeID": 377,
+        "size": "245/40R18XL"
+    },
+    {
+        "tireSizeID": 378,
+        "size": "245/40R19"
+    },
+    {
+        "tireSizeID": 379,
+        "size": "245/40R19XL"
+    },
+    {
+        "tireSizeID": 380,
+        "size": "245/40R20"
+    },
+    {
+        "tireSizeID": 381,
+        "size": "245/40R20XL"
+    },
+    {
+        "tireSizeID": 382,
+        "size": "245/40RF18XL"
+    },
+    {
+        "tireSizeID": 383,
+        "size": "245/40RF19XL"
+    },
+    {
+        "tireSizeID": 384,
+        "size": "245/40ZR17"
+    },
+    {
+        "tireSizeID": 385,
+        "size": "245/40ZR17/XL"
+    },
+    {
+        "tireSizeID": 386,
+        "size": "245/40ZR17XL"
+    },
+    {
+        "tireSizeID": 387,
+        "size": "245/40ZR18"
+    },
+    {
+        "tireSizeID": 388,
+        "size": "245/40ZR18/XL"
+    },
+    {
+        "tireSizeID": 389,
+        "size": "245/40ZR18XL"
+    },
+    {
+        "tireSizeID": 390,
+        "size": "245/40ZR19"
+    },
+    {
+        "tireSizeID": 391,
+        "size": "245/40ZR19XL"
+    },
+    {
+        "tireSizeID": 392,
+        "size": "245/40ZR20"
+    },
+    {
+        "tireSizeID": 393,
+        "size": "245/40ZR20XL"
+    },
+    {
+        "tireSizeID": 394,
+        "size": "245/45R17"
+    },
+    {
+        "tireSizeID": 395,
+        "size": "245/45R17/XL"
+    },
+    {
+        "tireSizeID": 396,
+        "size": "245/45R17XL"
+    },
+    {
+        "tireSizeID": 397,
+        "size": "245/45R18"
+    },
+    {
+        "tireSizeID": 398,
+        "size": "245/45R18/XL"
+    },
+    {
+        "tireSizeID": 399,
+        "size": "245/45R18XL"
+    },
+    {
+        "tireSizeID": 400,
+        "size": "245/45R19"
+    },
+    {
+        "tireSizeID": 401,
+        "size": "245/45R19 CC"
+    },
+    {
+        "tireSizeID": 402,
+        "size": "245/45R19XL"
+    },
+    {
+        "tireSizeID": 403,
+        "size": "245/45R20"
+    },
+    {
+        "tireSizeID": 404,
+        "size": "245/45R20XL"
+    },
+    {
+        "tireSizeID": 405,
+        "size": "245/45RF17XL"
+    },
+    {
+        "tireSizeID": 406,
+        "size": "245/45RF18"
+    },
+    {
+        "tireSizeID": 407,
+        "size": "245/45RF19XL"
+    },
+    {
+        "tireSizeID": 408,
+        "size": "245/45ZR17"
+    },
+    {
+        "tireSizeID": 409,
+        "size": "245/45ZR17XL"
+    },
+    {
+        "tireSizeID": 410,
+        "size": "245/45ZR18"
+    },
+    {
+        "tireSizeID": 411,
+        "size": "245/45ZR18 XL"
+    },
+    {
+        "tireSizeID": 412,
+        "size": "245/45ZR18/XL"
+    },
+    {
+        "tireSizeID": 413,
+        "size": "245/45ZR18XL"
+    },
+    {
+        "tireSizeID": 414,
+        "size": "245/45ZR19"
+    },
+    {
+        "tireSizeID": 415,
+        "size": "245/45ZR19XL"
+    },
+    {
+        "tireSizeID": 416,
+        "size": "245/45ZR20"
+    },
+    {
+        "tireSizeID": 417,
+        "size": "245/45ZR20XL"
+    },
+    {
+        "tireSizeID": 418,
+        "size": "245/50R16"
+    },
+    {
+        "tireSizeID": 419,
+        "size": "245/50R17"
+    },
+    {
+        "tireSizeID": 420,
+        "size": "245/50R18"
+    },
+    {
+        "tireSizeID": 421,
+        "size": "245/50R18/XL"
+    },
+    {
+        "tireSizeID": 422,
+        "size": "245/50R18XL"
+    },
+    {
+        "tireSizeID": 423,
+        "size": "245/50R19XL"
+    },
+    {
+        "tireSizeID": 424,
+        "size": "245/50R20"
+    },
+    {
+        "tireSizeID": 425,
+        "size": "245/50R20XL"
+    },
+    {
+        "tireSizeID": 426,
+        "size": "245/50ZR16"
+    },
+    {
+        "tireSizeID": 427,
+        "size": "245/50ZR17"
+    },
+    {
+        "tireSizeID": 428,
+        "size": "245/50ZR18"
+    },
+    {
+        "tireSizeID": 429,
+        "size": "245/50ZR19XL"
+    },
+    {
+        "tireSizeID": 430,
+        "size": "245/55R18"
+    },
+    {
+        "tireSizeID": 431,
+        "size": "245/55R19"
+    },
+    {
+        "tireSizeID": 432,
+        "size": "245/55R19XL"
+    },
+    {
+        "tireSizeID": 433,
+        "size": "245/55ZR18"
+    },
+    {
+        "tireSizeID": 434,
+        "size": "245/60R17RF"
+    },
+    {
+        "tireSizeID": 435,
+        "size": "245/60R18"
+    },
+    {
+        "tireSizeID": 436,
+        "size": "245/60R18XL"
+    },
+    {
+        "tireSizeID": 437,
+        "size": "245/60R20"
+    },
+    {
+        "tireSizeID": 438,
+        "size": "245/65R17"
+    },
+    {
+        "tireSizeID": 439,
+        "size": "245/65R17XL"
+    },
+    {
+        "tireSizeID": 440,
+        "size": "245/70R16"
+    },
+    {
+        "tireSizeID": 441,
+        "size": "245/70R16XL"
+    },
+    {
+        "tireSizeID": 442,
+        "size": "245/70R17"
+    },
+    {
+        "tireSizeID": 443,
+        "size": "245/70R17XL"
+    },
+    {
+        "tireSizeID": 444,
+        "size": "245/75R16"
+    },
+    {
+        "tireSizeID": 445,
+        "size": "245/75R17"
+    },
+    {
+        "tireSizeID": 446,
+        "size": "255/30R19XL"
+    },
+    {
+        "tireSizeID": 447,
+        "size": "255/30R22XL"
+    },
+    {
+        "tireSizeID": 448,
+        "size": "255/30ZR19XL"
+    },
+    {
+        "tireSizeID": 449,
+        "size": "255/30ZR20XL"
+    },
+    {
+        "tireSizeID": 450,
+        "size": "255/30ZR22RD"
+    },
+    {
+        "tireSizeID": 451,
+        "size": "255/30ZR22XL"
+    },
+    {
+        "tireSizeID": 452,
+        "size": "255/30ZR24XL"
+    },
+    {
+        "tireSizeID": 453,
+        "size": "255/35R18"
+    },
+    {
+        "tireSizeID": 454,
+        "size": "255/35R18XL"
+    },
+    {
+        "tireSizeID": 455,
+        "size": "255/35R19"
+    },
+    {
+        "tireSizeID": 456,
+        "size": "255/35R19XL"
+    },
+    {
+        "tireSizeID": 457,
+        "size": "255/35R20/XL"
+    },
+    {
+        "tireSizeID": 458,
+        "size": "255/35R20XL"
+    },
+    {
+        "tireSizeID": 459,
+        "size": "255/35RF18"
+    },
+    {
+        "tireSizeID": 460,
+        "size": "255/35RF18XL"
+    },
+    {
+        "tireSizeID": 461,
+        "size": "255/35ZR18"
+    },
+    {
+        "tireSizeID": 462,
+        "size": "255/35ZR18/XL"
+    },
+    {
+        "tireSizeID": 463,
+        "size": "255/35ZR18XL"
+    },
+    {
+        "tireSizeID": 464,
+        "size": "255/35ZR19"
+    },
+    {
+        "tireSizeID": 465,
+        "size": "255/35ZR19XL"
+    },
+    {
+        "tireSizeID": 466,
+        "size": "255/35ZR20XL"
+    },
+    {
+        "tireSizeID": 467,
+        "size": "255/40R17"
+    },
+    {
+        "tireSizeID": 468,
+        "size": "255/40R17XL"
+    },
+    {
+        "tireSizeID": 469,
+        "size": "255/40R18"
+    },
+    {
+        "tireSizeID": 470,
+        "size": "255/40R18XL"
+    },
+    {
+        "tireSizeID": 471,
+        "size": "255/40R19"
+    },
+    {
+        "tireSizeID": 472,
+        "size": "255/40R19XL"
+    },
+    {
+        "tireSizeID": 473,
+        "size": "255/40R20XL"
+    },
+    {
+        "tireSizeID": 474,
+        "size": "255/40RF17"
+    },
+    {
+        "tireSizeID": 475,
+        "size": "255/40RF18"
+    },
+    {
+        "tireSizeID": 476,
+        "size": "255/40RF18XL"
+    },
+    {
+        "tireSizeID": 477,
+        "size": "255/40RF20"
+    },
+    {
+        "tireSizeID": 478,
+        "size": "255/40ZR17"
+    },
+    {
+        "tireSizeID": 479,
+        "size": "255/40ZR17XL"
+    },
+    {
+        "tireSizeID": 480,
+        "size": "255/40ZR18"
+    },
+    {
+        "tireSizeID": 481,
+        "size": "255/40ZR18L"
+    },
+    {
+        "tireSizeID": 482,
+        "size": "255/40ZR18XL"
+    },
+    {
+        "tireSizeID": 483,
+        "size": "255/40ZR19"
+    },
+    {
+        "tireSizeID": 484,
+        "size": "255/40ZR19XL"
+    },
+    {
+        "tireSizeID": 485,
+        "size": "255/40ZR20XL"
+    },
+    {
+        "tireSizeID": 486,
+        "size": "255/45R17"
+    },
+    {
+        "tireSizeID": 487,
+        "size": "255/45R18"
+    },
+    {
+        "tireSizeID": 488,
+        "size": "255/45R18XL"
+    },
+    {
+        "tireSizeID": 489,
+        "size": "255/45R19"
+    },
+    {
+        "tireSizeID": 490,
+        "size": "255/45R19XL"
+    },
+    {
+        "tireSizeID": 491,
+        "size": "255/45R20"
+    },
+    {
+        "tireSizeID": 492,
+        "size": "255/45R20XL"
+    },
+    {
+        "tireSizeID": 493,
+        "size": "255/45RF18"
+    },
+    {
+        "tireSizeID": 494,
+        "size": "255/45ZR17"
+    },
+    {
+        "tireSizeID": 495,
+        "size": "255/45ZR17XL"
+    },
+    {
+        "tireSizeID": 496,
+        "size": "255/45ZR18"
+    },
+    {
+        "tireSizeID": 497,
+        "size": "255/45ZR18XL"
+    },
+    {
+        "tireSizeID": 498,
+        "size": "255/45ZR19"
+    },
+    {
+        "tireSizeID": 499,
+        "size": "255/45ZR19XL"
+    },
+    {
+        "tireSizeID": 500,
+        "size": "255/45ZR20"
+    },
+    {
+        "tireSizeID": 501,
+        "size": "255/45ZR20XL"
+    },
+    {
+        "tireSizeID": 502,
+        "size": "255/50R17XL"
+    },
+    {
+        "tireSizeID": 503,
+        "size": "255/50R18XL"
+    },
+    {
+        "tireSizeID": 504,
+        "size": "255/50R19"
+    },
+    {
+        "tireSizeID": 505,
+        "size": "255/50R19 XL"
+    },
+    {
+        "tireSizeID": 506,
+        "size": "255/50R19/XL"
+    },
+    {
+        "tireSizeID": 507,
+        "size": "255/50R19XL"
+    },
+    {
+        "tireSizeID": 508,
+        "size": "255/50R20"
+    },
+    {
+        "tireSizeID": 509,
+        "size": "255/50R20 XL"
+    },
+    {
+        "tireSizeID": 510,
+        "size": "255/50R20XL"
+    },
+    {
+        "tireSizeID": 511,
+        "size": "255/50ZR16"
+    },
+    {
+        "tireSizeID": 512,
+        "size": "255/50ZR17"
+    },
+    {
+        "tireSizeID": 513,
+        "size": "255/50ZR19XL"
+    },
+    {
+        "tireSizeID": 514,
+        "size": "255/50ZR20XL"
+    },
+    {
+        "tireSizeID": 515,
+        "size": "255/55R17"
+    },
+    {
+        "tireSizeID": 516,
+        "size": "255/55R18"
+    },
+    {
+        "tireSizeID": 517,
+        "size": "255/55R18 XL"
+    },
+    {
+        "tireSizeID": 518,
+        "size": "255/55R18/XL"
+    },
+    {
+        "tireSizeID": 519,
+        "size": "255/55R18XL"
+    },
+    {
+        "tireSizeID": 520,
+        "size": "255/55R19"
+    },
+    {
+        "tireSizeID": 521,
+        "size": "255/55R19XL"
+    },
+    {
+        "tireSizeID": 522,
+        "size": "255/55R20"
+    },
+    {
+        "tireSizeID": 523,
+        "size": "255/55R20 XL"
+    },
+    {
+        "tireSizeID": 524,
+        "size": "255/55R20XL"
+    },
+    {
+        "tireSizeID": 525,
+        "size": "255/55ZR18XL"
+    },
+    {
+        "tireSizeID": 526,
+        "size": "255/60HR17"
+    },
+    {
+        "tireSizeID": 527,
+        "size": "255/60R17"
+    },
+    {
+        "tireSizeID": 528,
+        "size": "255/60R17XL"
+    },
+    {
+        "tireSizeID": 529,
+        "size": "255/60R18"
+    },
+    {
+        "tireSizeID": 530,
+        "size": "255/60R18XL"
+    },
+    {
+        "tireSizeID": 531,
+        "size": "255/60R19"
+    },
+    {
+        "tireSizeID": 532,
+        "size": "255/60R19XL"
+    },
+    {
+        "tireSizeID": 533,
+        "size": "255/65R16"
+    },
+    {
+        "tireSizeID": 534,
+        "size": "255/65R17"
+    },
+    {
+        "tireSizeID": 535,
+        "size": "255/65R17XL"
+    },
+    {
+        "tireSizeID": 536,
+        "size": "255/65R18"
+    },
+    {
+        "tireSizeID": 537,
+        "size": "255/65R18XL"
+    },
+    {
+        "tireSizeID": 538,
+        "size": "255/70R15"
+    },
+    {
+        "tireSizeID": 539,
+        "size": "255/70R16"
+    },
+    {
+        "tireSizeID": 540,
+        "size": "255/70R16XL"
+    },
+    {
+        "tireSizeID": 541,
+        "size": "255/70R17"
+    },
+    {
+        "tireSizeID": 542,
+        "size": "255/70R18"
+    },
+    {
+        "tireSizeID": 543,
+        "size": "255/70R18XL"
+    },
+    {
+        "tireSizeID": 544,
+        "size": "255/75R17"
+    },
+    {
+        "tireSizeID": 545,
+        "size": "265/30ZR19XL"
+    },
+    {
+        "tireSizeID": 546,
+        "size": "265/30ZR20XL"
+    },
+    {
+        "tireSizeID": 547,
+        "size": "265/30ZR22XL"
+    },
+    {
+        "tireSizeID": 548,
+        "size": "265/35R18"
+    },
+    {
+        "tireSizeID": 549,
+        "size": "265/35R18/XL"
+    },
+    {
+        "tireSizeID": 550,
+        "size": "265/35R18XL"
+    },
+    {
+        "tireSizeID": 551,
+        "size": "265/35R19"
+    },
+    {
+        "tireSizeID": 552,
+        "size": "265/35R19XL"
+    },
+    {
+        "tireSizeID": 553,
+        "size": "265/35R20XL"
+    },
+    {
+        "tireSizeID": 554,
+        "size": "265/35R22XL"
+    },
+    {
+        "tireSizeID": 555,
+        "size": "265/35ZR18"
+    },
+    {
+        "tireSizeID": 556,
+        "size": "265/35ZR18XL"
+    },
+    {
+        "tireSizeID": 557,
+        "size": "265/35ZR19"
+    },
+    {
+        "tireSizeID": 558,
+        "size": "265/35ZR19XL"
+    },
+    {
+        "tireSizeID": 559,
+        "size": "265/35ZR20XL"
+    },
+    {
+        "tireSizeID": 560,
+        "size": "265/35ZR21XL"
+    },
+    {
+        "tireSizeID": 561,
+        "size": "265/35ZR22/XL"
+    },
+    {
+        "tireSizeID": 562,
+        "size": "265/35ZR22XL"
+    },
+    {
+        "tireSizeID": 563,
+        "size": "265/40R18XL"
+    },
+    {
+        "tireSizeID": 564,
+        "size": "265/40R19"
+    },
+    {
+        "tireSizeID": 565,
+        "size": "265/40R21"
+    },
+    {
+        "tireSizeID": 566,
+        "size": "265/40R22XL"
+    },
+    {
+        "tireSizeID": 567,
+        "size": "265/40VR22RD"
+    },
+    {
+        "tireSizeID": 568,
+        "size": "265/40ZR17"
+    },
+    {
+        "tireSizeID": 569,
+        "size": "265/40ZR18XL"
+    },
+    {
+        "tireSizeID": 570,
+        "size": "265/40ZR19"
+    },
+    {
+        "tireSizeID": 571,
+        "size": "265/40ZR19XL"
+    },
+    {
+        "tireSizeID": 572,
+        "size": "265/40ZR21XL"
+    },
+    {
+        "tireSizeID": 573,
+        "size": "265/40ZR22XL"
+    },
+    {
+        "tireSizeID": 574,
+        "size": "265/45R20"
+    },
+    {
+        "tireSizeID": 575,
+        "size": "265/45R20XL"
+    },
+    {
+        "tireSizeID": 576,
+        "size": "265/45R21"
+    },
+    {
+        "tireSizeID": 577,
+        "size": "265/45ZR20"
+    },
+    {
+        "tireSizeID": 578,
+        "size": "265/50R19"
+    },
+    {
+        "tireSizeID": 579,
+        "size": "265/50R19 XL"
+    },
+    {
+        "tireSizeID": 580,
+        "size": "265/50R19XL"
+    },
+    {
+        "tireSizeID": 581,
+        "size": "265/50R20"
+    },
+    {
+        "tireSizeID": 582,
+        "size": "265/50R20 XL"
+    },
+    {
+        "tireSizeID": 583,
+        "size": "265/50R20RD"
+    },
+    {
+        "tireSizeID": 584,
+        "size": "265/50R20XL"
+    },
+    {
+        "tireSizeID": 585,
+        "size": "265/60R17"
+    },
+    {
+        "tireSizeID": 586,
+        "size": "265/60R18"
+    },
+    {
+        "tireSizeID": 587,
+        "size": "265/60R18XL"
+    },
+    {
+        "tireSizeID": 588,
+        "size": "265/65R17"
+    },
+    {
+        "tireSizeID": 589,
+        "size": "265/65R17XL"
+    },
+    {
+        "tireSizeID": 590,
+        "size": "265/65R18"
+    },
+    {
+        "tireSizeID": 591,
+        "size": "265/65R18XL"
+    },
+    {
+        "tireSizeID": 592,
+        "size": "265/70R15"
+    },
+    {
+        "tireSizeID": 593,
+        "size": "265/70R16"
+    },
+    {
+        "tireSizeID": 594,
+        "size": "265/70R16XL"
+    },
+    {
+        "tireSizeID": 595,
+        "size": "265/70R17"
+    },
+    {
+        "tireSizeID": 596,
+        "size": "265/70R17 / 10 Ply"
+    },
+    {
+        "tireSizeID": 597,
+        "size": "265/70R17/E"
+    },
+    {
+        "tireSizeID": 598,
+        "size": "265/70R17XL"
+    },
+    {
+        "tireSizeID": 599,
+        "size": "265/70R18"
+    },
+    {
+        "tireSizeID": 600,
+        "size": "265/75R15"
+    },
+    {
+        "tireSizeID": 601,
+        "size": "265/75R16"
+    },
+    {
+        "tireSizeID": 602,
+        "size": "265/75R16 / 10 Ply"
+    },
+    {
+        "tireSizeID": 603,
+        "size": "265/75R16/E"
+    },
+    {
+        "tireSizeID": 604,
+        "size": "275/25ZR24XL"
+    },
+    {
+        "tireSizeID": 605,
+        "size": "275/30R19XL"
+    },
+    {
+        "tireSizeID": 606,
+        "size": "275/30R20XL"
+    },
+    {
+        "tireSizeID": 607,
+        "size": "275/30ZR19/XL"
+    },
+    {
+        "tireSizeID": 608,
+        "size": "275/30ZR19XL"
+    },
+    {
+        "tireSizeID": 609,
+        "size": "275/30ZR20/XL"
+    },
+    {
+        "tireSizeID": 610,
+        "size": "275/30ZR20XL"
+    },
+    {
+        "tireSizeID": 611,
+        "size": "275/30ZR24XL"
+    },
+    {
+        "tireSizeID": 612,
+        "size": "275/35R18"
+    },
+    {
+        "tireSizeID": 613,
+        "size": "275/35R19"
+    },
+    {
+        "tireSizeID": 614,
+        "size": "275/35R19XL"
+    },
+    {
+        "tireSizeID": 615,
+        "size": "275/35R20XL"
+    },
+    {
+        "tireSizeID": 616,
+        "size": "275/35ZR18"
+    },
+    {
+        "tireSizeID": 617,
+        "size": "275/35ZR18XL"
+    },
+    {
+        "tireSizeID": 618,
+        "size": "275/35ZR19"
+    },
+    {
+        "tireSizeID": 619,
+        "size": "275/35ZR19XL"
+    },
+    {
+        "tireSizeID": 620,
+        "size": "275/35ZR20"
+    },
+    {
+        "tireSizeID": 621,
+        "size": "275/35ZR20XL"
+    },
+    {
+        "tireSizeID": 622,
+        "size": "275/40R17"
+    },
+    {
+        "tireSizeID": 623,
+        "size": "275/40R18"
+    },
+    {
+        "tireSizeID": 624,
+        "size": "275/40R19"
+    },
+    {
+        "tireSizeID": 625,
+        "size": "275/40R19XL"
+    },
+    {
+        "tireSizeID": 626,
+        "size": "275/40R20"
+    },
+    {
+        "tireSizeID": 627,
+        "size": "275/40R20XL"
+    },
+    {
+        "tireSizeID": 628,
+        "size": "275/40R22XL"
+    },
+    {
+        "tireSizeID": 629,
+        "size": "275/40VR20"
+    },
+    {
+        "tireSizeID": 630,
+        "size": "275/40ZR17"
+    },
+    {
+        "tireSizeID": 631,
+        "size": "275/40ZR17XL"
+    },
+    {
+        "tireSizeID": 632,
+        "size": "275/40ZR18"
+    },
+    {
+        "tireSizeID": 633,
+        "size": "275/40ZR18XL"
+    },
+    {
+        "tireSizeID": 634,
+        "size": "275/40ZR19"
+    },
+    {
+        "tireSizeID": 635,
+        "size": "275/40ZR19XL"
+    },
+    {
+        "tireSizeID": 636,
+        "size": "275/40ZR20XL"
+    },
+    {
+        "tireSizeID": 637,
+        "size": "275/45R18"
+    },
+    {
+        "tireSizeID": 638,
+        "size": "275/45R19XL"
+    },
+    {
+        "tireSizeID": 639,
+        "size": "275/45R20"
+    },
+    {
+        "tireSizeID": 640,
+        "size": "275/45R20/XL"
+    },
+    {
+        "tireSizeID": 641,
+        "size": "275/45R20RD"
+    },
+    {
+        "tireSizeID": 642,
+        "size": "275/45R20XL"
+    },
+    {
+        "tireSizeID": 643,
+        "size": "275/45R21"
+    },
+    {
+        "tireSizeID": 644,
+        "size": "275/45R21XL"
+    },
+    {
+        "tireSizeID": 645,
+        "size": "275/45R22XL"
+    },
+    {
+        "tireSizeID": 646,
+        "size": "275/45ZR19XL"
+    },
+    {
+        "tireSizeID": 647,
+        "size": "275/45ZR20XL"
+    },
+    {
+        "tireSizeID": 648,
+        "size": "275/50R17XL"
+    },
+    {
+        "tireSizeID": 649,
+        "size": "275/50R20"
+    },
+    {
+        "tireSizeID": 650,
+        "size": "275/50ZR17XL"
+    },
+    {
+        "tireSizeID": 651,
+        "size": "275/55R17"
+    },
+    {
+        "tireSizeID": 652,
+        "size": "275/55R18"
+    },
+    {
+        "tireSizeID": 653,
+        "size": "275/55R19"
+    },
+    {
+        "tireSizeID": 654,
+        "size": "275/55R20"
+    },
+    {
+        "tireSizeID": 655,
+        "size": "275/55R20 / 8 Ply"
+    },
+    {
+        "tireSizeID": 656,
+        "size": "275/55R20 113H SL"
+    },
+    {
+        "tireSizeID": 657,
+        "size": "275/55R20RD"
+    },
+    {
+        "tireSizeID": 658,
+        "size": "275/55R20XL"
+    },
+    {
+        "tireSizeID": 659,
+        "size": "275/60R17"
+    },
+    {
+        "tireSizeID": 660,
+        "size": "275/60R18"
+    },
+    {
+        "tireSizeID": 661,
+        "size": "275/60R20"
+    },
+    {
+        "tireSizeID": 662,
+        "size": "275/60R20XL"
+    },
+    {
+        "tireSizeID": 663,
+        "size": "275/65R18"
+    },
+    {
+        "tireSizeID": 664,
+        "size": "275/65R18 / 10 Ply"
+    },
+    {
+        "tireSizeID": 665,
+        "size": "275/65R18XL"
+    },
+    {
+        "tireSizeID": 666,
+        "size": "275/65R20"
+    },
+    {
+        "tireSizeID": 667,
+        "size": "275/70R16"
+    },
+    {
+        "tireSizeID": 668,
+        "size": "275/70R18"
+    },
+    {
+        "tireSizeID": 669,
+        "size": "27X8.50R14LT / 6 Ply"
+    },
+    {
+        "tireSizeID": 670,
+        "size": "285/30R19XL"
+    },
+    {
+        "tireSizeID": 671,
+        "size": "285/30R20XL"
+    },
+    {
+        "tireSizeID": 672,
+        "size": "285/30ZR19XL"
+    },
+    {
+        "tireSizeID": 673,
+        "size": "285/30ZR20XL"
+    },
+    {
+        "tireSizeID": 674,
+        "size": "285/30ZR21XL"
+    },
+    {
+        "tireSizeID": 675,
+        "size": "285/30ZR22XL"
+    },
+    {
+        "tireSizeID": 676,
+        "size": "285/35R18"
+    },
+    {
+        "tireSizeID": 677,
+        "size": "285/35R18/XL"
+    },
+    {
+        "tireSizeID": 678,
+        "size": "285/35R18XL"
+    },
+    {
+        "tireSizeID": 679,
+        "size": "285/35R19"
+    },
+    {
+        "tireSizeID": 680,
+        "size": "285/35R20"
+    },
+    {
+        "tireSizeID": 681,
+        "size": "285/35R22"
+    },
+    {
+        "tireSizeID": 682,
+        "size": "285/35R22XL"
+    },
+    {
+        "tireSizeID": 683,
+        "size": "285/35R24XL"
+    },
+    {
+        "tireSizeID": 684,
+        "size": "285/35RF20"
+    },
+    {
+        "tireSizeID": 685,
+        "size": "285/35ZR18"
+    },
+    {
+        "tireSizeID": 686,
+        "size": "285/35ZR18XL"
+    },
+    {
+        "tireSizeID": 687,
+        "size": "285/35ZR19"
+    },
+    {
+        "tireSizeID": 688,
+        "size": "285/35ZR19XL"
+    },
+    {
+        "tireSizeID": 689,
+        "size": "285/35ZR20"
+    },
+    {
+        "tireSizeID": 690,
+        "size": "285/35ZR20XL"
+    },
+    {
+        "tireSizeID": 691,
+        "size": "285/35ZR21XL"
+    },
+    {
+        "tireSizeID": 692,
+        "size": "285/35ZR22XL"
+    },
+    {
+        "tireSizeID": 693,
+        "size": "285/40R20XL"
+    },
+    {
+        "tireSizeID": 694,
+        "size": "285/40R22XL"
+    },
+    {
+        "tireSizeID": 695,
+        "size": "285/40R24XL"
+    },
+    {
+        "tireSizeID": 696,
+        "size": "285/40ZR17"
+    },
+    {
+        "tireSizeID": 697,
+        "size": "285/40ZR17XL"
+    },
+    {
+        "tireSizeID": 698,
+        "size": "285/40ZR18"
+    },
+    {
+        "tireSizeID": 699,
+        "size": "285/40ZR18XL"
+    },
+    {
+        "tireSizeID": 700,
+        "size": "285/40ZR19"
+    },
+    {
+        "tireSizeID": 701,
+        "size": "285/40ZR22"
+    },
+    {
+        "tireSizeID": 702,
+        "size": "285/45R19"
+    },
+    {
+        "tireSizeID": 703,
+        "size": "285/45R19XL"
+    },
+    {
+        "tireSizeID": 704,
+        "size": "285/45R22"
+    },
+    {
+        "tireSizeID": 705,
+        "size": "285/45R22/XL"
+    },
+    {
+        "tireSizeID": 706,
+        "size": "285/45R22XL"
+    },
+    {
+        "tireSizeID": 707,
+        "size": "285/45VR22RD"
+    },
+    {
+        "tireSizeID": 708,
+        "size": "285/50R20"
+    },
+    {
+        "tireSizeID": 709,
+        "size": "285/50R20XL"
+    },
+    {
+        "tireSizeID": 710,
+        "size": "285/50VR20RD"
+    },
+    {
+        "tireSizeID": 711,
+        "size": "285/55R20 / 10 Ply"
+    },
+    {
+        "tireSizeID": 712,
+        "size": "285/60R18"
+    },
+    {
+        "tireSizeID": 713,
+        "size": "285/60R18XL"
+    },
+    {
+        "tireSizeID": 714,
+        "size": "285/65R17"
+    },
+    {
+        "tireSizeID": 715,
+        "size": "285/70R17"
+    },
+    {
+        "tireSizeID": 716,
+        "size": "295/25ZR22XL"
+    },
+    {
+        "tireSizeID": 717,
+        "size": "295/30R19XL"
+    },
+    {
+        "tireSizeID": 718,
+        "size": "295/30R22XL"
+    },
+    {
+        "tireSizeID": 719,
+        "size": "295/30ZR18XL"
+    },
+    {
+        "tireSizeID": 720,
+        "size": "295/30ZR19XL"
+    },
+    {
+        "tireSizeID": 721,
+        "size": "295/30ZR20XL"
+    },
+    {
+        "tireSizeID": 722,
+        "size": "295/35R20XL"
+    },
+    {
+        "tireSizeID": 723,
+        "size": "295/35R21"
+    },
+    {
+        "tireSizeID": 724,
+        "size": "295/35R21XL"
+    },
+    {
+        "tireSizeID": 725,
+        "size": "295/35R24XL"
+    },
+    {
+        "tireSizeID": 726,
+        "size": "295/35ZR18"
+    },
+    {
+        "tireSizeID": 727,
+        "size": "295/35ZR19"
+    },
+    {
+        "tireSizeID": 728,
+        "size": "295/35ZR19XL"
+    },
+    {
+        "tireSizeID": 729,
+        "size": "295/35ZR20"
+    },
+    {
+        "tireSizeID": 730,
+        "size": "295/35ZR20XL"
+    },
+    {
+        "tireSizeID": 731,
+        "size": "295/35ZR21XL"
+    },
+    {
+        "tireSizeID": 732,
+        "size": "295/40R20"
+    },
+    {
+        "tireSizeID": 733,
+        "size": "295/40R20XL"
+    },
+    {
+        "tireSizeID": 734,
+        "size": "295/40ZR18"
+    },
+    {
+        "tireSizeID": 735,
+        "size": "295/40ZR20XL"
+    },
+    {
+        "tireSizeID": 736,
+        "size": "295/40ZR21XL"
+    },
+    {
+        "tireSizeID": 737,
+        "size": "295/45R20XL"
+    },
+    {
+        "tireSizeID": 738,
+        "size": "295/45VR20RD"
+    },
+    {
+        "tireSizeID": 739,
+        "size": "295/45ZR18XL"
+    },
+    {
+        "tireSizeID": 740,
+        "size": "295/50R20XL"
+    },
+    {
+        "tireSizeID": 741,
+        "size": "295/70R18"
+    },
+    {
+        "tireSizeID": 742,
+        "size": "305/30ZR19XL"
+    },
+    {
+        "tireSizeID": 743,
+        "size": "305/30ZR20XL"
+    },
+    {
+        "tireSizeID": 744,
+        "size": "305/35R20"
+    },
+    {
+        "tireSizeID": 745,
+        "size": "305/35R24RD"
+    },
+    {
+        "tireSizeID": 746,
+        "size": "305/35R24XL"
+    },
+    {
+        "tireSizeID": 747,
+        "size": "305/35ZR18"
+    },
+    {
+        "tireSizeID": 748,
+        "size": "305/35ZR19"
+    },
+    {
+        "tireSizeID": 749,
+        "size": "305/35ZR20"
+    },
+    {
+        "tireSizeID": 750,
+        "size": "305/35ZR20XL"
+    },
+    {
+        "tireSizeID": 751,
+        "size": "305/40R22"
+    },
+    {
+        "tireSizeID": 752,
+        "size": "305/40R22XL"
+    },
+    {
+        "tireSizeID": 753,
+        "size": "305/40R23XL"
+    },
+    {
+        "tireSizeID": 754,
+        "size": "305/40VR22RD"
+    },
+    {
+        "tireSizeID": 755,
+        "size": "305/45R22RE"
+    },
+    {
+        "tireSizeID": 756,
+        "size": "305/45R22XL"
+    },
+    {
+        "tireSizeID": 757,
+        "size": "305/45VR22RD"
+    },
+    {
+        "tireSizeID": 758,
+        "size": "305/50R20"
+    },
+    {
+        "tireSizeID": 759,
+        "size": "305/50R20XL"
+    },
+    {
+        "tireSizeID": 760,
+        "size": "305/50VR20RD"
+    },
+    {
+        "tireSizeID": 761,
+        "size": "305/55R20XL"
+    },
+    {
+        "tireSizeID": 762,
+        "size": "305/60R18XL"
+    },
+    {
+        "tireSizeID": 763,
+        "size": "30X9.50R15 / 6 Ply"
+    },
+    {
+        "tireSizeID": 764,
+        "size": "30X9.50R15LT / 6 Ply"
+    },
+    {
+        "tireSizeID": 765,
+        "size": "315/25ZR20"
+    },
+    {
+        "tireSizeID": 766,
+        "size": "315/35R17"
+    },
+    {
+        "tireSizeID": 767,
+        "size": "315/35R20"
+    },
+    {
+        "tireSizeID": 768,
+        "size": "315/35R20XL"
+    },
+    {
+        "tireSizeID": 769,
+        "size": "315/35ZR17XL"
+    },
+    {
+        "tireSizeID": 770,
+        "size": "315/35ZR20"
+    },
+    {
+        "tireSizeID": 771,
+        "size": "315/35ZR20XL"
+    },
+    {
+        "tireSizeID": 772,
+        "size": "315/40R21"
+    },
+    {
+        "tireSizeID": 773,
+        "size": "31X10.50R15 / 6 Ply"
+    },
+    {
+        "tireSizeID": 774,
+        "size": "31X10.50R15LT / 6 Ply"
+    },
+    {
+        "tireSizeID": 775,
+        "size": "325/25ZR21XL"
+    },
+    {
+        "tireSizeID": 776,
+        "size": "325/30R19XL"
+    },
+    {
+        "tireSizeID": 777,
+        "size": "325/30ZR19XL"
+    },
+    {
+        "tireSizeID": 778,
+        "size": "325/30ZR21XL"
+    },
+    {
+        "tireSizeID": 779,
+        "size": "325/35ZR22"
+    },
+    {
+        "tireSizeID": 780,
+        "size": "32X11.50R15 / 6 Ply"
+    },
+    {
+        "tireSizeID": 781,
+        "size": "335/25ZR20"
+    },
+    {
+        "tireSizeID": 782,
+        "size": "335/30ZR19"
+    },
+    {
+        "tireSizeID": 783,
+        "size": "33X10.50R15 / 6 Ply"
+    },
+    {
+        "tireSizeID": 784,
+        "size": "33X11.50R20 / 10 Ply"
+    },
+    {
+        "tireSizeID": 785,
+        "size": "33X12.50R15 / 6 Ply"
+    },
+    {
+        "tireSizeID": 786,
+        "size": "33X12.50R15LT / 6 Ply"
+    },
+    {
+        "tireSizeID": 787,
+        "size": "33X12.50R17 / 10 Ply"
+    },
+    {
+        "tireSizeID": 788,
+        "size": "33X12.50R17 / 6 Ply"
+    },
+    {
+        "tireSizeID": 789,
+        "size": "33X12.50R17 / 8 Ply"
+    },
+    {
+        "tireSizeID": 790,
+        "size": "33X12.50R17LT / 10 Ply"
+    },
+    {
+        "tireSizeID": 791,
+        "size": "33X12.50R18 / 10 Ply"
+    },
+    {
+        "tireSizeID": 792,
+        "size": "33X12.50R18 / 12 Ply"
+    },
+    {
+        "tireSizeID": 793,
+        "size": "33X12.50R20 / 10 Ply"
+    },
+    {
+        "tireSizeID": 794,
+        "size": "33X12.50R20 / 12 Ply"
+    },
+    {
+        "tireSizeID": 795,
+        "size": "33X12.50R20LT / 10 Ply"
+    },
+    {
+        "tireSizeID": 796,
+        "size": "33X12.50R20LT / 12 Ply"
+    },
+    {
+        "tireSizeID": 797,
+        "size": "33X12.50R22 / 10 Ply"
+    },
+    {
+        "tireSizeID": 798,
+        "size": "33X12.50R22 / 12 Ply"
+    },
+    {
+        "tireSizeID": 799,
+        "size": "33X1250R18 / 10 Ply"
+    },
+    {
+        "tireSizeID": 800,
+        "size": "33X1250R20 / 10 Ply"
+    },
+    {
+        "tireSizeID": 801,
+        "size": "33X13.50R15 / 6 Ply"
+    },
+    {
+        "tireSizeID": 802,
+        "size": "33X13.50R15 / 8 Ply"
+    },
+    {
+        "tireSizeID": 803,
+        "size": "34X10.50R17 / 8 Ply"
+    },
+    {
+        "tireSizeID": 804,
+        "size": "34X12.50R18 / 10 Ply"
+    },
+    {
+        "tireSizeID": 805,
+        "size": "35X11.50R17 / 6 Ply"
+    },
+    {
+        "tireSizeID": 806,
+        "size": "35X11.50R20 / 10 Ply"
+    },
+    {
+        "tireSizeID": 807,
+        "size": "35X12.50R15 / 6 Ply"
+    },
+    {
+        "tireSizeID": 808,
+        "size": "35X12.50R15LT / 6 Ply"
+    },
+    {
+        "tireSizeID": 809,
+        "size": "35X12.50R17 / 10 Ply"
+    },
+    {
+        "tireSizeID": 810,
+        "size": "35X12.50R17 / 8 Ply"
+    },
+    {
+        "tireSizeID": 811,
+        "size": "35X12.50R17LT / 10 Ply"
+    },
+    {
+        "tireSizeID": 812,
+        "size": "35X12.50R18"
+    },
+    {
+        "tireSizeID": 813,
+        "size": "35x12.50R18 / 10 Ply"
+    },
+    {
+        "tireSizeID": 814,
+        "size": "35X12.50R18 / 12 Ply"
+    },
+    {
+        "tireSizeID": 815,
+        "size": "35X12.50R18 / 8 Ply"
+    },
+    {
+        "tireSizeID": 816,
+        "size": "35X12.50R18LT / 10 Ply"
+    },
+    {
+        "tireSizeID": 817,
+        "size": "35X12.50R20 / 10 Ply"
+    },
+    {
+        "tireSizeID": 818,
+        "size": "35X12.50R20 / 12 Ply"
+    },
+    {
+        "tireSizeID": 819,
+        "size": "35X12.50R20LT / 10 Ply"
+    },
+    {
+        "tireSizeID": 820,
+        "size": "35X12.50R22 / 10 Ply"
+    },
+    {
+        "tireSizeID": 821,
+        "size": "35X12.50R22 / 12 Ply"
+    },
+    {
+        "tireSizeID": 822,
+        "size": "35X1250R17 / 10 Ply"
+    },
+    {
+        "tireSizeID": 823,
+        "size": "35X1250R18 / 10 Ply"
+    },
+    {
+        "tireSizeID": 824,
+        "size": "35X1250R20 / 10 Ply"
+    },
+    {
+        "tireSizeID": 825,
+        "size": "35X13.50R20 / 10 Ply"
+    },
+    {
+        "tireSizeID": 826,
+        "size": "35X13.50R20 / 12 Ply"
+    },
+    {
+        "tireSizeID": 827,
+        "size": "35X14.50R15 / 6 Ply"
+    },
+    {
+        "tireSizeID": 828,
+        "size": "37X11.50R20 / 10 Ply"
+    },
+    {
+        "tireSizeID": 829,
+        "size": "37X12.50R17 / 8 Ply"
+    },
+    {
+        "tireSizeID": 830,
+        "size": "37X12.50R17LT / 8 Ply"
+    },
+    {
+        "tireSizeID": 831,
+        "size": "37X12.50R18 / 10 Ply"
+    },
+    {
+        "tireSizeID": 832,
+        "size": "37X12.50R20 / 10 Ply"
+    },
+    {
+        "tireSizeID": 833,
+        "size": "37X12.50R22 / 10 Ply"
+    },
+    {
+        "tireSizeID": 834,
+        "size": "37X12.50R22 / 12 Ply"
+    },
+    {
+        "tireSizeID": 835,
+        "size": "37X1250R20 / 10 Ply"
+    },
+    {
+        "tireSizeID": 836,
+        "size": "37X13.50R17 / 10 Ply"
+    },
+    {
+        "tireSizeID": 837,
+        "size": "37X13.50R17 / 8 Ply"
+    },
+    {
+        "tireSizeID": 838,
+        "size": "37X13.50R18 / 8 Ply"
+    },
+    {
+        "tireSizeID": 839,
+        "size": "37X13.50R20 / 10 Ply"
+    },
+    {
+        "tireSizeID": 840,
+        "size": "37X13.50R20LT / 10 Ply"
+    },
+    {
+        "tireSizeID": 841,
+        "size": "37X13.50R22 / 10 Ply"
+    },
+    {
+        "tireSizeID": 842,
+        "size": "37X13.50R22 / 12 Ply"
+    },
+    {
+        "tireSizeID": 843,
+        "size": "37X13.50R24 / 8 Ply"
+    },
+    {
+        "tireSizeID": 844,
+        "size": "37X14.50R15 / 10 Ply"
+    },
+    {
+        "tireSizeID": 845,
+        "size": "38X13.50R20 / 10 Ply"
+    },
+    {
+        "tireSizeID": 846,
+        "size": "38X13.50R20 / 8 Ply"
+    },
+    {
+        "tireSizeID": 847,
+        "size": "38X13.50R22 / 10 Ply"
+    },
+    {
+        "tireSizeID": 848,
+        "size": "38X13.50R24 / 10 Ply"
+    },
+    {
+        "tireSizeID": 849,
+        "size": "38X15.50R20 / 10 Ply"
+    },
+    {
+        "tireSizeID": 850,
+        "size": "38X15.50R20 / 8 Ply"
+    },
+    {
+        "tireSizeID": 851,
+        "size": "4.80-12 / 4 Ply"
+    },
+    {
+        "tireSizeID": 852,
+        "size": "4.80-12 / 6 Ply"
+    },
+    {
+        "tireSizeID": 853,
+        "size": "4.80-8 / 4 Ply"
+    },
+    {
+        "tireSizeID": 854,
+        "size": "4.80-8 / 6 Ply"
+    },
+    {
+        "tireSizeID": 855,
+        "size": "40X13.50R17LT / 6 Ply"
+    },
+    {
+        "tireSizeID": 856,
+        "size": "40X15.50R20 / 8 Ply"
+    },
+    {
+        "tireSizeID": 857,
+        "size": "40X15.50R22 / 8 Ply"
+    },
+    {
+        "tireSizeID": 858,
+        "size": "40X15.50R24 / 10 Ply"
+    },
+    {
+        "tireSizeID": 859,
+        "size": "5.30-12 / 4 Ply"
+    },
+    {
+        "tireSizeID": 860,
+        "size": "5.30-12 / 6 Ply"
+    },
+    {
+        "tireSizeID": 861,
+        "size": "5.70-8 / 4 Ply"
+    },
+    {
+        "tireSizeID": 862,
+        "size": "5.70-8 / 6 Ply"
+    },
+    {
+        "tireSizeID": 863,
+        "size": "5.70-8 / 8 Ply"
+    },
+    {
+        "tireSizeID": 864,
+        "size": "6.90-9 / 6 Ply"
+    },
+    {
+        "tireSizeID": 865,
+        "size": "LT215/65R16 / 8 Ply"
+    },
+    {
+        "tireSizeID": 866,
+        "size": "LT215/75R15"
+    },
+    {
+        "tireSizeID": 867,
+        "size": "LT215/75R15 / 6 Ply"
+    },
+    {
+        "tireSizeID": 868,
+        "size": "LT215/75R15 / 8 Ply"
+    },
+    {
+        "tireSizeID": 869,
+        "size": "LT215/85R16"
+    },
+    {
+        "tireSizeID": 870,
+        "size": "LT215/85R16 / 10 Ply"
+    },
+    {
+        "tireSizeID": 871,
+        "size": "LT215/85R16 / 8 Ply"
+    },
+    {
+        "tireSizeID": 872,
+        "size": "LT225/65R17 / 8 Ply"
+    },
+    {
+        "tireSizeID": 873,
+        "size": "LT225/75R16"
+    },
+    {
+        "tireSizeID": 874,
+        "size": "LT225/75R16 / 10 Ply"
+    },
+    {
+        "tireSizeID": 875,
+        "size": "LT225/75R17 / 10 Ply"
+    },
+    {
+        "tireSizeID": 876,
+        "size": "LT235/70R16 / 6 Ply"
+    },
+    {
+        "tireSizeID": 877,
+        "size": "LT235/75R15 / 6 Ply"
+    },
+    {
+        "tireSizeID": 878,
+        "size": "LT235/80R17"
+    },
+    {
+        "tireSizeID": 879,
+        "size": "LT235/80R17 / 10 Ply"
+    },
+    {
+        "tireSizeID": 880,
+        "size": "LT235/85R16"
+    },
+    {
+        "tireSizeID": 881,
+        "size": "LT235/85R16 / 10 Ply"
+    },
+    {
+        "tireSizeID": 882,
+        "size": "LT245/65R17 / 8 Ply"
+    },
+    {
+        "tireSizeID": 883,
+        "size": "LT245/70R16 / 10 Ply"
+    },
+    {
+        "tireSizeID": 884,
+        "size": "LT245/70R16 / 8 Ply"
+    },
+    {
+        "tireSizeID": 885,
+        "size": "LT245/70R17 / 10 Ply"
+    },
+    {
+        "tireSizeID": 886,
+        "size": "LT245/75R16"
+    },
+    {
+        "tireSizeID": 887,
+        "size": "LT245/75R16 / 10 Ply"
+    },
+    {
+        "tireSizeID": 888,
+        "size": "LT245/75R16 / 6 Ply"
+    },
+    {
+        "tireSizeID": 889,
+        "size": "LT245/75R17"
+    },
+    {
+        "tireSizeID": 890,
+        "size": "LT245/75R17 / 10 Ply"
+    },
+    {
+        "tireSizeID": 891,
+        "size": "LT255/55R18 / 8 Ply"
+    },
+    {
+        "tireSizeID": 892,
+        "size": "LT255/70R16 / 10 Ply"
+    },
+    {
+        "tireSizeID": 893,
+        "size": "LT255/70R16 / 6 Ply"
+    },
+    {
+        "tireSizeID": 894,
+        "size": "LT255/70R17 / 10 Ply"
+    },
+    {
+        "tireSizeID": 895,
+        "size": "LT255/70R18 / 8 Ply"
+    },
+    {
+        "tireSizeID": 896,
+        "size": "LT255/75R17 / 6 Ply"
+    },
+    {
+        "tireSizeID": 897,
+        "size": "LT255/80R17 / 10 Ply"
+    },
+    {
+        "tireSizeID": 898,
+        "size": "LT255/85R16"
+    },
+    {
+        "tireSizeID": 899,
+        "size": "LT255/85R16 / 10 Ply"
+    },
+    {
+        "tireSizeID": 900,
+        "size": "LT255/85R16 / 8 Ply"
+    },
+    {
+        "tireSizeID": 901,
+        "size": "LT265/60R18 / 10 Ply"
+    },
+    {
+        "tireSizeID": 902,
+        "size": "LT265/60R20 / 10 Ply"
+    },
+    {
+        "tireSizeID": 903,
+        "size": "LT265/65R17 / 10 Ply"
+    },
+    {
+        "tireSizeID": 904,
+        "size": "LT265/65R18 / 10 Ply"
+    },
+    {
+        "tireSizeID": 905,
+        "size": "LT265/70R16 / 10 Ply"
+    },
+    {
+        "tireSizeID": 906,
+        "size": "LT265/70R17"
+    },
+    {
+        "tireSizeID": 907,
+        "size": "LT265/70R17 / 10 Ply"
+    },
+    {
+        "tireSizeID": 908,
+        "size": "LT265/70R17 / 6 Ply"
+    },
+    {
+        "tireSizeID": 909,
+        "size": "LT265/70R18"
+    },
+    {
+        "tireSizeID": 910,
+        "size": "LT265/70R18 / 10 Ply"
+    },
+    {
+        "tireSizeID": 911,
+        "size": "LT265/75R16"
+    },
+    {
+        "tireSizeID": 912,
+        "size": "LT265/75R16 / 10 Ply"
+    },
+    {
+        "tireSizeID": 913,
+        "size": "LT265/75R16 / 6 Ply"
+    },
+    {
+        "tireSizeID": 914,
+        "size": "LT265/75R16 / 8 Ply"
+    },
+    {
+        "tireSizeID": 915,
+        "size": "LT275/55R20 / 10 Ply"
+    },
+    {
+        "tireSizeID": 916,
+        "size": "LT275/55R20 / 8 Ply"
+    },
+    {
+        "tireSizeID": 917,
+        "size": "LT275/60R20 / 10 Ply"
+    },
+    {
+        "tireSizeID": 918,
+        "size": "LT275/60R20 / 8 Ply"
+    },
+    {
+        "tireSizeID": 919,
+        "size": "LT275/65R17 / 10 Ply"
+    },
+    {
+        "tireSizeID": 920,
+        "size": "LT275/65R18"
+    },
+    {
+        "tireSizeID": 921,
+        "size": "LT275/65R18 / 10 Ply"
+    },
+    {
+        "tireSizeID": 922,
+        "size": "LT275/65R18 / 6 Ply"
+    },
+    {
+        "tireSizeID": 923,
+        "size": "LT275/65R20 / 10 Ply"
+    },
+    {
+        "tireSizeID": 924,
+        "size": "LT275/70R16 / 8 Ply"
+    },
+    {
+        "tireSizeID": 925,
+        "size": "LT275/70R17 / 10 Ply"
+    },
+    {
+        "tireSizeID": 926,
+        "size": "LT275/70R17 / 6 Ply"
+    },
+    {
+        "tireSizeID": 927,
+        "size": "LT275/70R18 / 10 Ply"
+    },
+    {
+        "tireSizeID": 928,
+        "size": "LT285/50R22 / 10 Ply"
+    },
+    {
+        "tireSizeID": 929,
+        "size": "LT285/55R20 / 10 Ply"
+    },
+    {
+        "tireSizeID": 930,
+        "size": "LT285/55R20 / 8 Ply"
+    },
+    {
+        "tireSizeID": 931,
+        "size": "LT285/55R22 / 10 Ply"
+    },
+    {
+        "tireSizeID": 932,
+        "size": "LT285/60R18 / 10 Ply"
+    },
+    {
+        "tireSizeID": 933,
+        "size": "LT285/60R18 / 8 Ply"
+    },
+    {
+        "tireSizeID": 934,
+        "size": "LT285/60R20 / 10 Ply"
+    },
+    {
+        "tireSizeID": 935,
+        "size": "LT285/65R17 / 10 Ply"
+    },
+    {
+        "tireSizeID": 936,
+        "size": "LT285/65R18 / 10 Ply"
+    },
+    {
+        "tireSizeID": 937,
+        "size": "LT285/65R18 / 8 Ply"
+    },
+    {
+        "tireSizeID": 938,
+        "size": "LT285/65R20 / 10 Ply"
+    },
+    {
+        "tireSizeID": 939,
+        "size": "LT285/70R16 / 10 Ply"
+    },
+    {
+        "tireSizeID": 940,
+        "size": "LT285/70R17 / 10 Ply"
+    },
+    {
+        "tireSizeID": 941,
+        "size": "LT285/70R17 / 6 Ply"
+    },
+    {
+        "tireSizeID": 942,
+        "size": "LT285/70R17 / 8 Ply"
+    },
+    {
+        "tireSizeID": 943,
+        "size": "LT285/70R18 / 10 Ply"
+    },
+    {
+        "tireSizeID": 944,
+        "size": "LT285/75R16"
+    },
+    {
+        "tireSizeID": 945,
+        "size": "LT285/75R16 / 10 Ply"
+    },
+    {
+        "tireSizeID": 946,
+        "size": "LT285/75R16 / 6 Ply"
+    },
+    {
+        "tireSizeID": 947,
+        "size": "LT285/75R16 / 8 Ply"
+    },
+    {
+        "tireSizeID": 948,
+        "size": "LT285/75R17 / 10 Ply"
+    },
+    {
+        "tireSizeID": 949,
+        "size": "LT285/75R17 / 6 Ply"
+    },
+    {
+        "tireSizeID": 950,
+        "size": "LT285/75R18 / 10 Ply"
+    },
+    {
+        "tireSizeID": 951,
+        "size": "LT295/55R20 / 10 Ply"
+    },
+    {
+        "tireSizeID": 952,
+        "size": "LT295/60R20 / 10 Ply"
+    },
+    {
+        "tireSizeID": 953,
+        "size": "LT295/65R18 / 10 Ply"
+    },
+    {
+        "tireSizeID": 954,
+        "size": "LT295/65R20 / 10 Ply"
+    },
+    {
+        "tireSizeID": 955,
+        "size": "LT295/70R17 / 10 Ply"
+    },
+    {
+        "tireSizeID": 956,
+        "size": "LT295/70R17 / 8 Ply"
+    },
+    {
+        "tireSizeID": 957,
+        "size": "LT295/70R18 / 10 Ply"
+    },
+    {
+        "tireSizeID": 958,
+        "size": "LT295/75R16 / 10 Ply"
+    },
+    {
+        "tireSizeID": 959,
+        "size": "LT295/75R16 / 8 Ply"
+    },
+    {
+        "tireSizeID": 960,
+        "size": "LT305/55R20 / 10 Ply"
+    },
+    {
+        "tireSizeID": 961,
+        "size": "LT305/55R20 / 12 Ply"
+    },
+    {
+        "tireSizeID": 962,
+        "size": "LT305/60R18 / 10 Ply"
+    },
+    {
+        "tireSizeID": 963,
+        "size": "LT305/65R17 / 10 Ply"
+    },
+    {
+        "tireSizeID": 964,
+        "size": "LT305/65R18 / 10 Ply"
+    },
+    {
+        "tireSizeID": 965,
+        "size": "LT305/65R18 / 12 Ply"
+    },
+    {
+        "tireSizeID": 966,
+        "size": "LT305/70R16 / 10 Ply"
+    },
+    {
+        "tireSizeID": 967,
+        "size": "LT305/70R16 / 8 Ply"
+    },
+    {
+        "tireSizeID": 968,
+        "size": "LT305/70R17 / 10 Ply"
+    },
+    {
+        "tireSizeID": 969,
+        "size": "LT305/70R18 / 10 Ply"
+    },
+    {
+        "tireSizeID": 970,
+        "size": "LT30X9.50R15 / 6 Ply"
+    },
+    {
+        "tireSizeID": 971,
+        "size": "LT315/60R20 / 10 Ply"
+    },
+    {
+        "tireSizeID": 972,
+        "size": "LT315/70R17 / 10 Ply"
+    },
+    {
+        "tireSizeID": 973,
+        "size": "LT315/70R17 / 8 Ply"
+    },
+    {
+        "tireSizeID": 974,
+        "size": "LT315/70R18 / 10 Ply"
+    },
+    {
+        "tireSizeID": 975,
+        "size": "LT315/75R16 / 10 Ply"
+    },
+    {
+        "tireSizeID": 976,
+        "size": "LT315/75R16 / 8 Ply"
+    },
+    {
+        "tireSizeID": 977,
+        "size": "LT31X10.50R15 / 6 Ply"
+    },
+    {
+        "tireSizeID": 978,
+        "size": "LT325/50R22 / 10 Ply"
+    },
+    {
+        "tireSizeID": 979,
+        "size": "LT325/50R22 / 12 Ply"
+    },
+    {
+        "tireSizeID": 980,
+        "size": "LT325/60R18 / 10 Ply"
+    },
+    {
+        "tireSizeID": 981,
+        "size": "LT325/60R20 / 10 Ply"
+    },
+    {
+        "tireSizeID": 982,
+        "size": "LT325/65R18 / 10 Ply"
+    },
+    {
+        "tireSizeID": 983,
+        "size": "LT325/65R18 / 8 Ply"
+    },
+    {
+        "tireSizeID": 984,
+        "size": "LT355/40R22 / 12 Ply"
+    },
+    {
+        "tireSizeID": 985,
+        "size": "LT375/40R24 / 12 Ply"
+    },
+    {
+        "tireSizeID": 986,
+        "size": "LT375/45R22 / 12 Ply"
+    },
+    {
+        "tireSizeID": 987,
+        "size": "LT385/70R16 / 8 Ply"
+    },
+    {
+        "tireSizeID": 988,
+        "size": "P155/80R13"
+    },
+    {
+        "tireSizeID": 989,
+        "size": "P155/80R15"
+    },
+    {
+        "tireSizeID": 990,
+        "size": "P165/65R14"
+    },
+    {
+        "tireSizeID": 991,
+        "size": "P175/65R14"
+    },
+    {
+        "tireSizeID": 992,
+        "size": "P175/65R15"
+    },
+    {
+        "tireSizeID": 993,
+        "size": "P175/70R13"
+    },
+    {
+        "tireSizeID": 994,
+        "size": "P175/70R14"
+    },
+    {
+        "tireSizeID": 995,
+        "size": "P185/60R14"
+    },
+    {
+        "tireSizeID": 996,
+        "size": "P185/60R15"
+    },
+    {
+        "tireSizeID": 997,
+        "size": "P185/65R14"
+    },
+    {
+        "tireSizeID": 998,
+        "size": "P185/65R15"
+    },
+    {
+        "tireSizeID": 999,
+        "size": "P185/70R13"
+    },
+    {
+        "tireSizeID": 1000,
+        "size": "P185/70R14"
+    },
+    {
+        "tireSizeID": 1001,
+        "size": "P185/75R14"
+    },
+    {
+        "tireSizeID": 1002,
+        "size": "P195/50R15"
+    },
+    {
+        "tireSizeID": 1003,
+        "size": "P195/50R16"
+    },
+    {
+        "tireSizeID": 1004,
+        "size": "P195/55R15XL"
+    },
+    {
+        "tireSizeID": 1005,
+        "size": "P195/55R16"
+    },
+    {
+        "tireSizeID": 1006,
+        "size": "P195/60R15"
+    },
+    {
+        "tireSizeID": 1007,
+        "size": "P195/65R15"
+    },
+    {
+        "tireSizeID": 1008,
+        "size": "P195/70R14"
+    },
+    {
+        "tireSizeID": 1009,
+        "size": "P195/75R14"
+    },
+    {
+        "tireSizeID": 1010,
+        "size": "P205/50R16"
+    },
+    {
+        "tireSizeID": 1011,
+        "size": "P205/50R17"
+    },
+    {
+        "tireSizeID": 1012,
+        "size": "P205/55R15"
+    },
+    {
+        "tireSizeID": 1013,
+        "size": "P205/55R16"
+    },
+    {
+        "tireSizeID": 1014,
+        "size": "P205/60R15"
+    },
+    {
+        "tireSizeID": 1015,
+        "size": "P205/60R16"
+    },
+    {
+        "tireSizeID": 1016,
+        "size": "P205/65R15"
+    },
+    {
+        "tireSizeID": 1017,
+        "size": "P205/65R15XL"
+    },
+    {
+        "tireSizeID": 1018,
+        "size": "P205/65R16"
+    },
+    {
+        "tireSizeID": 1019,
+        "size": "P205/70R14"
+    },
+    {
+        "tireSizeID": 1020,
+        "size": "P205/70R15"
+    },
+    {
+        "tireSizeID": 1021,
+        "size": "P205/70R16"
+    },
+    {
+        "tireSizeID": 1022,
+        "size": "P205/75R14"
+    },
+    {
+        "tireSizeID": 1023,
+        "size": "P205/75R15"
+    },
+    {
+        "tireSizeID": 1024,
+        "size": "P215/45R17"
+    },
+    {
+        "tireSizeID": 1025,
+        "size": "P215/50R17"
+    },
+    {
+        "tireSizeID": 1026,
+        "size": "P215/50R17XL"
+    },
+    {
+        "tireSizeID": 1027,
+        "size": "P215/55R16"
+    },
+    {
+        "tireSizeID": 1028,
+        "size": "P215/55R17"
+    },
+    {
+        "tireSizeID": 1029,
+        "size": "P215/55R18"
+    },
+    {
+        "tireSizeID": 1030,
+        "size": "P215/60R14"
+    },
+    {
+        "tireSizeID": 1031,
+        "size": "P215/60R15"
+    },
+    {
+        "tireSizeID": 1032,
+        "size": "P215/60R16"
+    },
+    {
+        "tireSizeID": 1033,
+        "size": "P215/60R17"
+    },
+    {
+        "tireSizeID": 1034,
+        "size": "P215/65R15"
+    },
+    {
+        "tireSizeID": 1035,
+        "size": "P215/65R17"
+    },
+    {
+        "tireSizeID": 1036,
+        "size": "P215/70R14"
+    },
+    {
+        "tireSizeID": 1037,
+        "size": "P215/70R15"
+    },
+    {
+        "tireSizeID": 1038,
+        "size": "P215/70R16"
+    },
+    {
+        "tireSizeID": 1039,
+        "size": "P215/70R17"
+    },
+    {
+        "tireSizeID": 1040,
+        "size": "P215/75R14"
+    },
+    {
+        "tireSizeID": 1041,
+        "size": "P215/75R15"
+    },
+    {
+        "tireSizeID": 1042,
+        "size": "P225/40R18"
+    },
+    {
+        "tireSizeID": 1043,
+        "size": "P225/45R17"
+    },
+    {
+        "tireSizeID": 1044,
+        "size": "P225/45R18"
+    },
+    {
+        "tireSizeID": 1045,
+        "size": "P225/45R19"
+    },
+    {
+        "tireSizeID": 1046,
+        "size": "P225/50R17"
+    },
+    {
+        "tireSizeID": 1047,
+        "size": "P225/50R18"
+    },
+    {
+        "tireSizeID": 1048,
+        "size": "P225/55R16"
+    },
+    {
+        "tireSizeID": 1049,
+        "size": "P225/55R17"
+    },
+    {
+        "tireSizeID": 1050,
+        "size": "P225/55R18"
+    },
+    {
+        "tireSizeID": 1051,
+        "size": "P225/55R19"
+    },
+    {
+        "tireSizeID": 1052,
+        "size": "P225/55RF17"
+    },
+    {
+        "tireSizeID": 1053,
+        "size": "P225/60R14"
+    },
+    {
+        "tireSizeID": 1054,
+        "size": "P225/60R15"
+    },
+    {
+        "tireSizeID": 1055,
+        "size": "P225/60R16"
+    },
+    {
+        "tireSizeID": 1056,
+        "size": "P225/60R17"
+    },
+    {
+        "tireSizeID": 1057,
+        "size": "P225/60R18"
+    },
+    {
+        "tireSizeID": 1058,
+        "size": "P225/60RF17"
+    },
+    {
+        "tireSizeID": 1059,
+        "size": "P225/65R16"
+    },
+    {
+        "tireSizeID": 1060,
+        "size": "P225/65R17"
+    },
+    {
+        "tireSizeID": 1061,
+        "size": "P225/70R14"
+    },
+    {
+        "tireSizeID": 1062,
+        "size": "P225/70R15"
+    },
+    {
+        "tireSizeID": 1063,
+        "size": "P225/70R16"
+    },
+    {
+        "tireSizeID": 1064,
+        "size": "P225/75R15"
+    },
+    {
+        "tireSizeID": 1065,
+        "size": "P225/75R16"
+    },
+    {
+        "tireSizeID": 1066,
+        "size": "P235/45R18"
+    },
+    {
+        "tireSizeID": 1067,
+        "size": "P235/50R17"
+    },
+    {
+        "tireSizeID": 1068,
+        "size": "P235/50R18"
+    },
+    {
+        "tireSizeID": 1069,
+        "size": "P235/50R19"
+    },
+    {
+        "tireSizeID": 1070,
+        "size": "P235/50ZR18"
+    },
+    {
+        "tireSizeID": 1071,
+        "size": "P235/55R17"
+    },
+    {
+        "tireSizeID": 1072,
+        "size": "P235/55R18"
+    },
+    {
+        "tireSizeID": 1073,
+        "size": "P235/55R19"
+    },
+    {
+        "tireSizeID": 1074,
+        "size": "P235/55R20"
+    },
+    {
+        "tireSizeID": 1075,
+        "size": "P235/60R14"
+    },
+    {
+        "tireSizeID": 1076,
+        "size": "P235/60R15"
+    },
+    {
+        "tireSizeID": 1077,
+        "size": "P235/60R16"
+    },
+    {
+        "tireSizeID": 1078,
+        "size": "P235/60R17"
+    },
+    {
+        "tireSizeID": 1079,
+        "size": "P235/60R17XL"
+    },
+    {
+        "tireSizeID": 1080,
+        "size": "P235/60R18"
+    },
+    {
+        "tireSizeID": 1081,
+        "size": "P235/65R16"
+    },
+    {
+        "tireSizeID": 1082,
+        "size": "P235/65R17"
+    },
+    {
+        "tireSizeID": 1083,
+        "size": "P235/65R18"
+    },
+    {
+        "tireSizeID": 1084,
+        "size": "P235/70R15"
+    },
+    {
+        "tireSizeID": 1085,
+        "size": "P235/70R16"
+    },
+    {
+        "tireSizeID": 1086,
+        "size": "P235/70R16XL"
+    },
+    {
+        "tireSizeID": 1087,
+        "size": "P235/70R17"
+    },
+    {
+        "tireSizeID": 1088,
+        "size": "P235/70R17XL"
+    },
+    {
+        "tireSizeID": 1089,
+        "size": "P235/75R15"
+    },
+    {
+        "tireSizeID": 1090,
+        "size": "P235/75R15XL"
+    },
+    {
+        "tireSizeID": 1091,
+        "size": "P235/75R16"
+    },
+    {
+        "tireSizeID": 1092,
+        "size": "P235/75R16XL"
+    },
+    {
+        "tireSizeID": 1093,
+        "size": "P235/75R17"
+    },
+    {
+        "tireSizeID": 1094,
+        "size": "P245/35ZR19"
+    },
+    {
+        "tireSizeID": 1095,
+        "size": "P245/40R18LL"
+    },
+    {
+        "tireSizeID": 1096,
+        "size": "P245/40R19"
+    },
+    {
+        "tireSizeID": 1097,
+        "size": "P245/40R20"
+    },
+    {
+        "tireSizeID": 1098,
+        "size": "P245/40ZR18"
+    },
+    {
+        "tireSizeID": 1099,
+        "size": "P245/40ZR18LL"
+    },
+    {
+        "tireSizeID": 1100,
+        "size": "P245/45R17"
+    },
+    {
+        "tireSizeID": 1101,
+        "size": "P245/45R18"
+    },
+    {
+        "tireSizeID": 1102,
+        "size": "P245/45R19"
+    },
+    {
+        "tireSizeID": 1103,
+        "size": "P245/45ZR17"
+    },
+    {
+        "tireSizeID": 1104,
+        "size": "P245/50R17"
+    },
+    {
+        "tireSizeID": 1105,
+        "size": "P245/50R18"
+    },
+    {
+        "tireSizeID": 1106,
+        "size": "P245/50R20"
+    },
+    {
+        "tireSizeID": 1107,
+        "size": "P245/55R18"
+    },
+    {
+        "tireSizeID": 1108,
+        "size": "P245/55R19"
+    },
+    {
+        "tireSizeID": 1109,
+        "size": "P245/60R14"
+    },
+    {
+        "tireSizeID": 1110,
+        "size": "P245/60R15"
+    },
+    {
+        "tireSizeID": 1111,
+        "size": "P245/60R18"
+    },
+    {
+        "tireSizeID": 1112,
+        "size": "P245/60R20"
+    },
+    {
+        "tireSizeID": 1113,
+        "size": "P245/65R17"
+    },
+    {
+        "tireSizeID": 1114,
+        "size": "P245/70R16"
+    },
+    {
+        "tireSizeID": 1115,
+        "size": "P245/70R17"
+    },
+    {
+        "tireSizeID": 1116,
+        "size": "P245/75R16"
+    },
+    {
+        "tireSizeID": 1117,
+        "size": "P245/75R16XL"
+    },
+    {
+        "tireSizeID": 1118,
+        "size": "P245/75R17"
+    },
+    {
+        "tireSizeID": 1119,
+        "size": "P255/35R20XL"
+    },
+    {
+        "tireSizeID": 1120,
+        "size": "P255/40R19"
+    },
+    {
+        "tireSizeID": 1121,
+        "size": "P255/45R17"
+    },
+    {
+        "tireSizeID": 1122,
+        "size": "P255/50R20"
+    },
+    {
+        "tireSizeID": 1123,
+        "size": "P255/55R20"
+    },
+    {
+        "tireSizeID": 1124,
+        "size": "P255/60R15"
+    },
+    {
+        "tireSizeID": 1125,
+        "size": "P255/60R19"
+    },
+    {
+        "tireSizeID": 1126,
+        "size": "P255/65R16"
+    },
+    {
+        "tireSizeID": 1127,
+        "size": "P255/65R17"
+    },
+    {
+        "tireSizeID": 1128,
+        "size": "P255/65R18"
+    },
+    {
+        "tireSizeID": 1129,
+        "size": "P255/70R15"
+    },
+    {
+        "tireSizeID": 1130,
+        "size": "P255/70R16"
+    },
+    {
+        "tireSizeID": 1131,
+        "size": "P255/70R17"
+    },
+    {
+        "tireSizeID": 1132,
+        "size": "P255/70R18"
+    },
+    {
+        "tireSizeID": 1133,
+        "size": "P255/75R17"
+    },
+    {
+        "tireSizeID": 1134,
+        "size": "P265/45R18"
+    },
+    {
+        "tireSizeID": 1135,
+        "size": "P265/45R21"
+    },
+    {
+        "tireSizeID": 1136,
+        "size": "P265/50R20"
+    },
+    {
+        "tireSizeID": 1137,
+        "size": "P265/60R17"
+    },
+    {
+        "tireSizeID": 1138,
+        "size": "P265/60R18"
+    },
+    {
+        "tireSizeID": 1139,
+        "size": "P265/65R17"
+    },
+    {
+        "tireSizeID": 1140,
+        "size": "P265/65R18"
+    },
+    {
+        "tireSizeID": 1141,
+        "size": "P265/70R15"
+    },
+    {
+        "tireSizeID": 1142,
+        "size": "P265/70R16"
+    },
+    {
+        "tireSizeID": 1143,
+        "size": "P265/70R17"
+    },
+    {
+        "tireSizeID": 1144,
+        "size": "P265/70R18"
+    },
+    {
+        "tireSizeID": 1145,
+        "size": "P265/75R15"
+    },
+    {
+        "tireSizeID": 1146,
+        "size": "P265/75R16"
+    },
+    {
+        "tireSizeID": 1147,
+        "size": "P275/35R18LL"
+    },
+    {
+        "tireSizeID": 1148,
+        "size": "P275/35ZR18LL"
+    },
+    {
+        "tireSizeID": 1149,
+        "size": "P275/40R17"
+    },
+    {
+        "tireSizeID": 1150,
+        "size": "P275/40R19"
+    },
+    {
+        "tireSizeID": 1151,
+        "size": "P275/40ZR18"
+    },
+    {
+        "tireSizeID": 1152,
+        "size": "P275/45R20"
+    },
+    {
+        "tireSizeID": 1153,
+        "size": "P275/50R15"
+    },
+    {
+        "tireSizeID": 1154,
+        "size": "P275/50R22"
+    },
+    {
+        "tireSizeID": 1155,
+        "size": "P275/55R20"
+    },
+    {
+        "tireSizeID": 1156,
+        "size": "P275/60R15"
+    },
+    {
+        "tireSizeID": 1157,
+        "size": "P275/60R17"
+    },
+    {
+        "tireSizeID": 1158,
+        "size": "P275/60R20"
+    },
+    {
+        "tireSizeID": 1159,
+        "size": "P275/65R18"
+    },
+    {
+        "tireSizeID": 1160,
+        "size": "P275/70R16"
+    },
+    {
+        "tireSizeID": 1161,
+        "size": "P285/30ZR19"
+    },
+    {
+        "tireSizeID": 1162,
+        "size": "P285/30ZR20"
+    },
+    {
+        "tireSizeID": 1163,
+        "size": "P285/35R19LL"
+    },
+    {
+        "tireSizeID": 1164,
+        "size": "P285/35ZR19"
+    },
+    {
+        "tireSizeID": 1165,
+        "size": "P285/35ZR19LL"
+    },
+    {
+        "tireSizeID": 1166,
+        "size": "P285/35ZR20LL"
+    },
+    {
+        "tireSizeID": 1167,
+        "size": "P285/40R18LL"
+    },
+    {
+        "tireSizeID": 1168,
+        "size": "P285/45R22"
+    },
+    {
+        "tireSizeID": 1169,
+        "size": "P285/50R20"
+    },
+    {
+        "tireSizeID": 1170,
+        "size": "P285/60R18"
+    },
+    {
+        "tireSizeID": 1171,
+        "size": "P285/70R17"
+    },
+    {
+        "tireSizeID": 1172,
+        "size": "P295/50R15"
+    },
+    {
+        "tireSizeID": 1173,
+        "size": "P305/35R19LL"
+    },
+    {
+        "tireSizeID": 1174,
+        "size": "P305/35R24XL"
+    },
+    {
+        "tireSizeID": 1175,
+        "size": "P305/45R18LL"
+    },
+    {
+        "tireSizeID": 1176,
+        "size": "P315/35R17LL"
+    },
+    {
+        "tireSizeID": 1177,
+        "size": "P315/35R20LL"
+    },
+    {
+        "tireSizeID": 1178,
+        "size": "P325/30R19LL"
+    },
+    {
+        "tireSizeID": 1179,
+        "size": "P325/30ZR19LL"
+    },
+    {
+        "tireSizeID": 1180,
+        "size": "P335/25ZR20"
+    },
+    {
+        "tireSizeID": 1181,
+        "size": "ST165/80D13 / 6 Ply"
+    },
+    {
+        "tireSizeID": 1182,
+        "size": "ST175/80D13 / 6 Ply"
+    },
+    {
+        "tireSizeID": 1183,
+        "size": "ST175/80R13 / 6 Ply"
+    },
+    {
+        "tireSizeID": 1184,
+        "size": "ST175/80R13 / 8 Ply"
+    },
+    {
+        "tireSizeID": 1185,
+        "size": "ST185/80D13 / 6 Ply"
+    },
+    {
+        "tireSizeID": 1186,
+        "size": "ST185/80D13 / 8 Ply"
+    },
+    {
+        "tireSizeID": 1187,
+        "size": "ST185/80R13 / 6 Ply"
+    },
+    {
+        "tireSizeID": 1188,
+        "size": "ST185/80R13 / 8 Ply"
+    },
+    {
+        "tireSizeID": 1189,
+        "size": "ST205/75D14 / 6 Ply"
+    },
+    {
+        "tireSizeID": 1190,
+        "size": "ST205/75D15 / 6 Ply"
+    },
+    {
+        "tireSizeID": 1191,
+        "size": "ST205/75R14 / 6 Ply"
+    },
+    {
+        "tireSizeID": 1192,
+        "size": "ST205/75R14 / 8 Ply"
+    },
+    {
+        "tireSizeID": 1193,
+        "size": "ST205/75R15 / 6 Ply"
+    },
+    {
+        "tireSizeID": 1194,
+        "size": "ST205/75R15 / 8 Ply"
+    },
+    {
+        "tireSizeID": 1195,
+        "size": "ST205/90D15 / 8 Ply"
+    },
+    {
+        "tireSizeID": 1196,
+        "size": "ST205/90R15 / 10 Ply"
+    },
+    {
+        "tireSizeID": 1197,
+        "size": "ST215/75D14 / 6 Ply"
+    },
+    {
+        "tireSizeID": 1198,
+        "size": "ST215/75R14 / 6 Ply"
+    },
+    {
+        "tireSizeID": 1199,
+        "size": "ST215/75R14 / 8 Ply"
+    },
+    {
+        "tireSizeID": 1200,
+        "size": "ST225/75D15 / 6 Ply"
+    },
+    {
+        "tireSizeID": 1201,
+        "size": "ST225/75D15 / 8 Ply"
+    },
+    {
+        "tireSizeID": 1202,
+        "size": "ST225/75R15 / 10 Ply"
+    },
+    {
+        "tireSizeID": 1203,
+        "size": "ST225/75R15 / 6 Ply"
+    },
+    {
+        "tireSizeID": 1204,
+        "size": "ST225/75R15 / 8 Ply"
+    },
+    {
+        "tireSizeID": 1205,
+        "size": "ST225/90D16 / 10 Ply"
+    },
+    {
+        "tireSizeID": 1206,
+        "size": "ST225/90R16 / 10 Ply"
+    },
+    {
+        "tireSizeID": 1207,
+        "size": "ST225/90R16 / 14 Ply"
+    },
+    {
+        "tireSizeID": 1208,
+        "size": "ST235/80R16 / 10 Ply"
+    },
+    {
+        "tireSizeID": 1209,
+        "size": "ST235/85R16 / 10 Ply"
+    },
+    {
+        "tireSizeID": 1210,
+        "size": "ST235/85R16 / 12 Ply"
+    },
+    {
+        "tireSizeID": 1211,
+        "size": "ST255/85R16 / 10 Ply"
+    }
+]
